@@ -7,6 +7,7 @@ This folder contains the data files used in this project:
 3. Human-corrected
 4. GPT4 generated
 5. JSONL for fine-tuning
+6. Prompts for inference
 
 
 ## SimpleNLG sampled files
@@ -72,6 +73,15 @@ for the GPT4 ones.
 These files should go into OpenChatKit/data
 
 
+## Prompts
+
+For running inference, the full set of prompt inputs is useful:
+
+```
+cat 2000.out |perl -ne 'use JSON; if(m/IN/){chomp; s/^IN \d+\: //;s-https://textualization.com/acc_icons/--g; s/\{/\n* \{/g;$j={ 'text'=> "<human>: Simulate an AAC communicator given the following icon input: $_\n<bot>:"};print encode_json $j;print"\n"}' > 2000.prompts
+```
+
+(Might need to install the package `libjson-perl` to regenerate it.)
 
 ## LICENSE
 
