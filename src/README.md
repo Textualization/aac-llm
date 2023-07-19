@@ -70,3 +70,8 @@ python redpajama-incite-chat-3b_outlora.py
 ```
 
 This will produce `outputs/redpajama-incite-chat-3b-aac` (size 11G).
+
+
+## License
+
+These files are derivative of OpenChatKit files, available under the Apache Public License 2.0.
