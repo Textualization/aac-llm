@@ -1,0 +1,66 @@
+app_name	AAC Parole
+prefs_label	Paramètres (Communicateur AAC Parole)
+blah	Bla
+donate	Faire un don
+menu_gesture_search	Trouver en dessinant les lettres
+menu_search	Trouver un mot
+loading_nlg	S'il vous plaît patienter. Chargement de la
+go_back	Retour
+folder_caption_onclick	Dossier
+negation	ne..(pas)
+remove_icon	Supprimer cette icône
+cancel	Annuler
+update_icons	Instaler/metre a jour les pictogrames
+update_icons_description	Ceci va télécharger ~ 20Mo de données. Utilisez WiFi si possible.
+no_datafiles_found_question	Pour exécuter cette application ~ 20Mo de données des fichiers sont nécessaires. Voulez-vous de les télécharger maintenant? Avant de continuer s'il vous plaît activer la connexion WiFi, si possible.
+no_datafiles_found_question_yes	Oui
+no_datafiles_found_question_no	Non
+no_datafiles_found_msg_quit	L'application doit s'arrêter maintenant. S'il vous plaît revenir alors accès Internet est disponible pour installer les données.
+files_downloaded_updating_db	Datafiles downloaded. Now updating database. This will take some time.
+update_icons_wait_msg	Chargement des icons… S'il vous plaît patienter.
+please_wait	S'il vous plaît patienter.
+category_filter_hint	Tapez ici pour filtrer…
+menu_about	Info
+menu_history	Histoire des Phrases
+menu_preferences	Préférences
+pref_lang	Langue
+pref_gender	Mon sexe
+pref_uppercase	Affichage en MAJUSCULES
+pref_speak_each_word	Lire chaque mot (discrètement)
+pref_speak_each_word_descr	lire chaque icône individu à voix basse lorsqu'il est sélectionné
+pref_clear_phrase_after_speak	Effacer les mots prononcés
+pref_about_user	Utilisateur (moi)
+pref_hide_spc_colors	Ne pas afficher les couleurs SPC.
+pref_hide_spc_colors_descr	Ceux-ci permettent d'identifier rapidement la fonction d'un mot (action, objet, descriptif…)
+pref_hide_offensive_words_descr	Masquer les mots qui peuvent être choquantes ou inappropriées pour les petits enfants
+pref_hide_offensive_words	Masquer les mots pas appropriés pour les enfants
+cat_tab_all	Tout
+cat_tab_recent	Récemment utilisées
+btn_negated	négation
+btn_quesion	question
+btn_I	je
+btn_you	tu
+btn_he	il
+btn_she	elle
+btn_we	nous
+btn_you_pl	vous
+btn_they_m	ils
+btn_they_f	elles
+btn_clitic_myself	me
+btn_clitic_you	te
+btn_clitic_him	lui
+btn_clitic_her	lui
+btn_clitic_us	nous
+btn_clitic_you_pl	vous
+btn_clitic_them_m	eux
+btn_clitic_them_f	eux
+btn_that	ça
+btn_lets	on
+btn_past	passé
+btn_present	present
+btn_future	futur
+btn_dot	point
+btn_to_want	vouloir
+btn_can	pouvoir
+btn_to_be	être
+btn_to_have	avoir

@@ -1,0 +1,66 @@
+app_name	AAC communicator
+prefs_label	Settings (AAC Communicator)
+blah	
+donate	Donate
+menu_gesture_search	Find by drawing letters
+menu_search	Rechercher
+loading_nlg	Please wait… Loading the complex Natural Language
+go_back	Go back
+remove_icon	Remove this icon
+cancel	Cancel
+update_icons	Install/update pictograms
+update_icons_description	This will download ~20MB of icons. Use WiFi if possible.
+no_datafiles_found_question	To run this application ~20MB data-files are needed. Do you want to download them now? Before continuing enable the WiFi connection if possible.
+no_datafiles_found_question_yes	Yes
+no_datafiles_found_question_no	No
+no_datafiles_found_msg_quit	Application have to quit now. Please return then internet connection is available to install the data.
+files_downloaded_updating_db	Datafiles downloaded. Now updating database. This will take some time.
+update_icons_wait_msg	Preparing the App for the first time use. This will take some time…
+please_wait	Loading… Please wait.
+category_filter_hint	Type to filter…
+menu_about	About
+menu_history	Phrase History
+menu_preferences	Preferences
+pref_lang	Language
+pref_gender	My gender
+pref_hide_offensive_words_descr	Hide words that may be sexual or otherwise inappropriate for children
+pref_hide_offensive_words	Hide possibly inappropriate words
+pref_uppercase	Display UPPERCASE letters
+pref_clear_phrase_after_speak	Clear the spoken phrase
+pref_speak_each_word	Read each word
+pref_speak_each_word_descr	Once each word is selected, immediately read it at a low volume
+pref_about_user	About the user (me)
+pref_hide_spc_colors	Do not show SPC colors
+pref_hide_spc_colors_descr	these  allow to quickly identify function of a word (action, object, descriptive…)
+negation	negation
+folder_caption_onclick	Categorie
+cat_tab_all	All
+cat_tab_recent	Recently used
+btn_negated	negate
+btn_quesion	question
+btn_I	I
+btn_you	you
+btn_he	he
+btn_she	she
+btn_we	we
+btn_you_pl	you
+btn_they_m	they
+btn_they_f	they
+btn_clitic_myself	myself
+btn_clitic_you	you
+btn_clitic_him	him
+btn_clitic_her	her
+btn_clitic_us	us
+btn_clitic_you_pl	you
+btn_clitic_them_m	them
+btn_clitic_them_f	them
+btn_that	that
+btn_lets	let's
+btn_past	past
+btn_present	present
+btn_future	future
+btn_dot	dot
+btn_to_want	want
+btn_can	can
+btn_to_be	be
+btn_to_have	have
