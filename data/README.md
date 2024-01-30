@@ -72,6 +72,8 @@ for the GPT4 ones.
 
 These files should go into OpenChatKit/data
 
+(Might need to install the package `libjson-perl` to regenerate it.)
+
 
 ## Prompts
 
@@ -79,6 +81,18 @@ For running inference, the full set of prompt inputs is useful:
 
 ```
 cat 2000.out |perl -ne 'use JSON; if(m/IN/){chomp; s/^IN \d+\: //;s-https://textualization.com/acc_icons/--g; s/\{/\n* \{/g;$j={ 'text'=> "<human>: Simulate an AAC communicator given the following icon input: $_\n<bot>:"};print encode_json $j;print"\n"}' > 2000.prompts
+```
+
+(Might need to install the package `libjson-perl` to regenerate it.)
+
+## Experimenting with different prompts
+
+The file data-504-fields.jsonl contains input and output without any system prompt nor task prompt.
+
+It was obtained with:
+
+```
+cat 2000.out |perl -e 'open(A, "annotation-504.txt"); @a=<A>;chomp(@a);%a=map { ($d,$t) = m/\((\d+)\) (.*)/; $d=>$t } @a; while(<STDIN>){if(m/IN/){$i++; if($a{$i}){chomp; s/^IN \d+\: //;s-https://textualization.com/acc_icons/--g; print "$_\t".$a{$i}."\n"}}}'|perl -ne 'use JSON; chomp; ($i,$o)=split(/\t/); $i=~s/\{/\n* \{/g;$j={ 'input'=> $i, 'output'=> $o};print encode_json $j;print"\n"' > aac-504-fields.jsonl
 ```
 
 (Might need to install the package `libjson-perl` to regenerate it.)

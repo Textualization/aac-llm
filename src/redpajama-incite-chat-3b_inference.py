@@ -4,7 +4,7 @@ from peft import PeftModel, PeftConfig
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 prompts=[]
-with open("../../data/2000.prompts", 'rb') as p:
+with open("../data/2000.prompts", 'rb') as p:
   for prompt in p:
     prompts.append(json.loads(prompt))
 

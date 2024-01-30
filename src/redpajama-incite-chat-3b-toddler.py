@@ -14,7 +14,7 @@ from transformers import AutoTokenizer, AutoConfig, AutoModelForCausalLM
 MODEL_NAME='redpajama-incite-chat-3b-aac-toddler-lowrank'
 
 # read datasets
-with open('data/aac-toddler-504.jsonl', 'r') as fp:
+with open('../data/aac-toddler-504.jsonl', 'r') as fp:
     data = [json.loads(x) for x in fp.readlines()]
 
 model = AutoModelForCausalLM.from_pretrained(

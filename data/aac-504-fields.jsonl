@@ -1,0 +1,503 @@
+{"output":"I am behind","input":"\n* { I ; NOUN ; je.png }  \n* { be ; VERB ; etre.png }  \n* { behind ; ADJECTIVE ; 5443_1.png.64x64_q85.png } "}
+{"output":"That staff","input":"\n* { staff ; NOUN ; 7116_1.png.64x64_q85.png }  \n* { that ; NOUN ; that_one.png } "}
+{"output":"You are a pig","input":"\n* { you ; NOUN ; tu.png }  \n* { hog ; NOUN ; 2327_2.png.64x64_q85.png } "}
+{"input":"\n* { so do i ; NOUN ; 11591_1.png.64x64_q85.png } ","output":"So do I"}
+{"input":"\n* { imam ; NOUN ; 24113_1.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png }  \n* { police station ; NOUN ; 3083_1.png.64x64_q85.png }  \n* { tomorrow / in the future ; ADJECTIVE ; 7152_1.png.64x64_q85.png }  \n* { you ; CLITIC_PRONOUN ; tu.png }  \n* { want ; VERB ; vouloir.png } ","output":"The imam wants to take you to the police station later"}
+{"output":"Does she run to the rhombuses for bubbles?","input":"\n* { to run ; VERB ; 2719_1.png.64x64_q85.png }  \n* { she ; NOUN ; elle.png }  \n* { bubbles ; NOUN ; 6945_1.png.64x64_q85.png }  \n* { rhombus ; NOUN ; 4734_1.png.64x64_q85.png }  \n* { that ; NOUN ; that_one.png }  \n* { question ; QUESTION ; question.png } "}
+{"output":"It is not","input":"\n* { negate ; NEGATED ; no.png }  \n* { be ; VERB ; etre.png } "}
+{"output":"This is your bib","input":"\n* { bib ; NOUN ; 2267_2.png.64x64_q85.png }  \n* { be ; VERB ; etre.png }  \n* { you ; CLITIC_PRONOUN ; vous.png } "}
+{"output":"Wheelbarrows","input":"\n* { wheelbarrows ; NOUN ; 21504.png.64x64_q85.png } "}
+{"input":"\n* { past ; TENSE_PAST ; past.png }  \n* { can ; VERB ; pouvoir.png } ","output":"I couldn't"}
+{"output":"It can be the same","input":"\n* { equals ; ADJECTIVE ; 4667_1.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png } "}
+{"output":"Close your thing","input":"\n* { you ; NOUN ; tu.png }  \n* { close ; ADJECTIVE ; 5426_1.png.64x64_q85.png } "}
+{"output":"They have them and us","input":"\n* { they ; NOUN ; ils.png }  \n* { have ; VERB ; avoir.png }  \n* { them ; CLITIC_PRONOUN ; ils.png }  \n* { us ; CLITIC_PRONOUN ; nous.png } "}
+{"output":"Let's have him this week","input":"\n* { week ; NOUN ; 7244_1.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png }  \n* { him ; CLITIC_PRONOUN ; il.png }  \n* { let's ; NOUN ; on.png } "}
+{"output":"It is time for the dice to say good night. They will wait","input":"\n* { die (singular) dice (plural) ; NOUN ; 2731_1.png.64x64_q85.png }  \n* { be ; VERB ; etre.png }  \n* { good night ; NOUN ; 6942_1.png.64x64_q85.png }  \n* { dot ; DOT ; point.png }  \n* { them ; CLITIC_PRONOUN ; elles.png }  \n* { wait ; VERB ; 8109_1.png.64x64_q85.png } "}
+{"output":"Your sausages will have","input":"\n* { future ; TENSE_FUTURE ; future.png }  \n* { have ; VERB ; avoir.png }  \n* { sausage ; NOUN ; 2555_2.png.64x64_q85.png }  \n* { yours ; NOUN ; 12281_1.png.64x64_q85.png } "}
+{"output":"He and the woman use a motorised wheelchair","input":"\n* { be ; VERB ; etre.png }  \n* { he ; NOUN ; il.png }  \n* { woman ; NOUN ; 4703_1.png.64x64_q85.png }  \n* { that ; NOUN ; that_one.png }  \n* { motorised wheelchair ; NOUN ; 9121_1.png.64x64_q85.png } "}
+{"output":"You can use a bra this afternoon","input":"\n* { you ; NOUN ; vous.png }  \n* { can ; VERB ; pouvoir.png }  \n* { afternoon ; NOUN ; 7268_1.png.64x64_q85.png }  \n* { bra ; NOUN ; 2576_2.png.64x64_q85.png } "}
+{"input":"\n* { let's ; NOUN ; on.png }  \n* { verb ; NOUN ; 7297_1.png.64x64_q85.png }  \n* { negate ; NEGATED ; no.png }  \n* { judge ; NOUN ; 2957_1.png.64x64_q85.png } ","output":"Let's do not judge"}
+{"output":"She wants to do bad painting","input":"\n* { she ; NOUN ; elle.png }  \n* { I want ; NOUN ; 5441_1.png.64x64_q85.png }  \n* { bad ; ADJECTIVE ; 4690_1.png.64x64_q85.png }  \n* { to paint ; VERB ; 2348_2.png.64x64_q85.png } "}
+{"input":"\n* { they ; NOUN ; ils.png }  \n* { have ; VERB ; avoir.png }  \n* { sister ; NOUN ; 2422_2.png.64x64_q85.png } ","output":"They have a sister"}
+{"input":"\n* { Christmas Day ; NOUN ; 3092_1.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png } ","output":"Christmas Day has it"}
+{"output":"They have theirs","input":"\n* { they ; NOUN ; elles.png }  \n* { his/her/its ; ADJECTIVE ; 12272_1.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png } "}
+{"input":"\n* { below ; ADJECTIVE ; 5355_1.png.64x64_q85.png }  \n* { lamp ; NOUN ; 4936_1.png.64x64_q85.png }  \n* { let's ; NOUN ; on.png }  \n* { reading ; NOUN ; 2447_2.png.64x64_q85.png } ","output":"Let's do some reading under the lamp"}
+{"input":"\n* { want ; VERB ; vouloir.png }  \n* { I ; NOUN ; je.png }  \n* { cinema ; NOUN ; 4602_1.png.64x64_q85.png } ","output":"I want to go to the cinema"}
+{"output":"He can use dentures","input":"\n* { he ; NOUN ; il.png }  \n* { can ; VERB ; pouvoir.png }  \n* { dentures ; NOUN ; 2737_1.png.64x64_q85.png } "}
+{"output":"They crashed and want to talk in a foreign language","input":"\n* { to crash ; VERB ; 4551_1.png.64x64_q85.png }  \n* { they ; NOUN ; elles.png }  \n* { want ; VERB ; vouloir.png }  \n* { foreigner ; NOUN ; 4665_1.png.64x64_q85.png }  \n* { talk ; VERB ; 3345_1.png.64x64_q85.png } "}
+{"input":"\n* { you ; NOUN ; tu.png } ","output":"You"}
+{"output":"Blood","input":"\n* { blood ; NOUN ; 2803_1.png.64x64_q85.png } "}
+{"input":"\n* { have ; VERB ; avoir.png } ","output":"To have"}
+{"input":"\n* { great! ; NOUN ; 11599_1.png.64x64_q85.png }  \n* { him ; CLITIC_PRONOUN ; il.png }  \n* { to love ; VERB ; 4558_1.png.64x64_q85.png } ","output":"Great! And he is in love"}
+{"output":"I have and will not help others to have","input":"\n* { I ; NOUN ; je.png }  \n* { have ; VERB ; avoir.png }  \n* { negate ; NEGATED ; no.png }  \n* { to cooperate ; VERB ; 4570_1.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png } "}
+{"output":"Is snakes and ladders? They have their period","input":"\n* { be ; VERB ; etre.png }  \n* { snakes and ladders ; ADJECTIVE ; 3421_1.png.64x64_q85.png }  \n* { question ; QUESTION ; question.png }  \n* { period ; NOUN ; 8165_1.png.64x64_q85.png }  \n* { them ; CLITIC_PRONOUN ; ils.png }  \n* { be ; VERB ; etre.png } "}
+{"input":"\n* { have ; VERB ; avoir.png }  \n* { they ; NOUN ; ils.png }  \n* { lard ; NOUN ; 2461_2.png.64x64_q85.png } ","output":"They have lard"}
+{"output":"Have to work on the portable radio","input":"\n* { portable radio ; NOUN ; 11354_1.png.64x64_q85.png }  \n* { to work ; VERB ; 2599_2.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png } "}
+{"output":"You are really being","input":"\n* { you ; NOUN ; tu.png }  \n* { past ; TENSE_PAST ; past.png }  \n* { be ; VERB ; etre.png }  \n* { be ; VERB ; etre.png } "}
+{"input":"\n* { bookmark ; NOUN ; 11352_1.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png } ","output":"The bookmark is wanted"}
+{"output":"Have maracas and buses. And that","input":"\n* { have ; VERB ; avoir.png }  \n* { maracas ; NOUN ; 2463_2.png.64x64_q85.png }  \n* { bus ; NOUN ; 2262_2.png.64x64_q85.png }  \n* { dot ; DOT ; point.png }  \n* { that ; NOUN ; that_one.png } "}
+{"input":"\n* { can ; VERB ; pouvoir.png }  \n* { negate ; NEGATED ; no.png }  \n* { they ; NOUN ; ils.png }  \n* { dot ; DOT ; point.png } ","output":"They cannot do"}
+{"input":"\n* { have ; VERB ; avoir.png }  \n* { alphabet ; NOUN ; 3050_1.png.64x64_q85.png }  \n* { you ; CLITIC_PRONOUN ; vous.png } ","output":"You have the alphabet"}
+{"output":"Let's will have it","input":"\n* { future ; TENSE_FUTURE ; future.png }  \n* { let's ; NOUN ; on.png }  \n* { have ; VERB ; avoir.png } "}
+{"output":"That hides","input":"\n* { that ; NOUN ; that_one.png }  \n* { hide ; VERB ; 4642_1.png.64x64_q85.png } "}
+{"output":"I didn't want to do it","input":"\n* { past ; TENSE_PAST ; past.png }  \n* { can ; VERB ; pouvoir.png }  \n* { I do not want ; NOUN ; 6156_1.png.64x64_q85.png } "}
+{"output":"Is","input":"\n* { be ; VERB ; etre.png } "}
+{"output":"He","input":"\n* { he ; NOUN ; il.png } "}
+{"output":"Me and her could have the box before","input":"\n* { past ; TENSE_PAST ; past.png }  \n* { can ; VERB ; pouvoir.png }  \n* { box ; NOUN ; 5935_1.png.64x64_q85.png }  \n* { past ; TENSE_PAST ; past.png }  \n* { myself ; CLITIC_PRONOUN ; je.png }  \n* { her ; CLITIC_PRONOUN ; elle.png } "}
+{"input":"\n* { they ; NOUN ; elles.png }  \n* { subdued ; NOUN ; 8252_1.png.64x64_q85.png }  \n* { them ; CLITIC_PRONOUN ; elles.png }  \n* { you ; CLITIC_PRONOUN ; vous.png }  \n* { can ; VERB ; pouvoir.png }  \n* { miner ; NOUN ; 8631_1.png.64x64_q85.png }  \n* { you ; CLITIC_PRONOUN ; tu.png } ","output":"If they calm down, you all and them can go with you to see the miner"}
+{"input":"\n* { you ; NOUN ; tu.png }  \n* { Tuesday ; NOUN ; 6557_1.png.64x64_q85.png }  \n* { dot ; DOT ; point.png } ","output":"You on Tuesday"}
+{"input":"\n* { he ; NOUN ; il.png }  \n* { wink ; VERB ; 8597_1.png.64x64_q85.png }  \n* { her ; CLITIC_PRONOUN ; elle.png }  \n* { can ; VERB ; pouvoir.png } ","output":"He can wink at her"}
+{"output":"They have her bib","input":"\n* { have ; VERB ; avoir.png }  \n* { she ; NOUN ; elle.png }  \n* { bib ; NOUN ; 2267_2.png.64x64_q85.png }  \n* { them ; CLITIC_PRONOUN ; elles.png } "}
+{"output":"She wants it. She hurts herself and wants to classify","input":"\n* { she ; NOUN ; elle.png }  \n* { want ; VERB ; vouloir.png }  \n* { dot ; DOT ; point.png }  \n* { hurt oneself ; NOUN ; 2367_2.png.64x64_q85.png }  \n* { us ; CLITIC_PRONOUN ; nous.png }  \n* { want ; VERB ; vouloir.png }  \n* { classify ; VERB ; 8077_1.png.64x64_q85.png } "}
+{"input":"\n* { they ; NOUN ; ils.png }  \n* { him ; CLITIC_PRONOUN ; il.png }  \n* { him ; CLITIC_PRONOUN ; il.png }  \n* { can ; VERB ; pouvoir.png }  \n* { salty ; ADJECTIVE ; 4739_1.png.64x64_q85.png } ","output":"They, he and he can be salty"}
+{"input":"\n* { be ; VERB ; etre.png }  \n* { they ; NOUN ; elles.png }  \n* { can ; VERB ; pouvoir.png }  \n* { them ; CLITIC_PRONOUN ; elles.png }  \n* { have ; VERB ; avoir.png }  \n* { city ; NOUN ; 2704_1.png.64x64_q85.png } ","output":"They are and they want that city"}
+{"output":"Theirs and ours clothing","input":"\n* { they ; NOUN ; ils.png }  \n* { us ; CLITIC_PRONOUN ; nous.png }  \n* { garment ; NOUN ; 3296_1.png.64x64_q85.png } "}
+{"output":"They","input":"\n* { they ; NOUN ; ils.png } "}
+{"output":"Let's use the communicator as we want to say complicated things","input":"\n* { can ; VERB ; pouvoir.png }  \n* { let's ; NOUN ; on.png }  \n* { us ; CLITIC_PRONOUN ; nous.png }  \n* { want ; VERB ; vouloir.png }  \n* { complicated ; NOUN ; 4629_1.png.64x64_q85.png }  \n* { communicator ; NOUN ; 5971_1.png.64x64_q85.png } "}
+{"input":"\n* { boy ; NOUN ; 2485_2.png.64x64_q85.png }  \n* { let's ; NOUN ; on.png } ","output":"Let's be with the boy"}
+{"output":"Their cap","input":"\n* { cap ; NOUN ; 2411_2.png.64x64_q85.png }  \n* { them ; CLITIC_PRONOUN ; ils.png } "}
+{"output":"I want to get soaked","input":"\n* { I ; NOUN ; je.png }  \n* { to get soaked ; VERB ; 6149_1.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png } "}
+{"input":"\n* { let's ; NOUN ; on.png }  \n* { to grip ; VERB ; 4606_1.png.64x64_q85.png }  \n* { canteens ; NOUN ; 23691.png.64x64_q85.png } ","output":"Let's grip the canteen"}
+{"input":"\n* { can ; VERB ; pouvoir.png } ","output":"Can"}
+{"input":"\n* { have ; VERB ; avoir.png }  \n* { radio ; NOUN ; 11354_1.png.64x64_q85.png }  \n* { last ; ADJECTIVE ; 4765_1.png.64x64_q85.png }  \n* { fire ; NOUN ; 4654_1.png.64x64_q85.png } ","output":"The last radio is on fire"}
+{"input":"\n* { want ; VERB ; vouloir.png }  \n* { we ; NOUN ; nous.png }  \n* { you ; CLITIC_PRONOUN ; vous.png }  \n* { little girl ; ADJECTIVE ; 7175_1.png.64x64_q85.png }  \n* { them ; CLITIC_PRONOUN ; elles.png }  \n* { her ; CLITIC_PRONOUN ; elle.png } ","output":"We, you all, the little girl, they and she are wanted"}
+{"input":"\n* { cool! ; NOUN ; 11599_1.png.64x64_q85.png }  \n* { to slap someone's face ; VERB ; 16467_1.png.64x64_q85.png } ","output":"Cool! Slap their face"}
+{"input":"\n* { let's ; NOUN ; on.png }  \n* { can ; VERB ; pouvoir.png }  \n* { let's ; NOUN ; on.png } ","output":"Let's us do it"}
+{"output":"You all","input":"\n* { you ; NOUN ; vous.png } "}
+{"input":"\n* { we ; NOUN ; nous.png }  \n* { can ; VERB ; pouvoir.png }  \n* { future ; TENSE_FUTURE ; future.png }  \n* { cold ; ADJECTIVE ; 2401_2.png.64x64_q85.png } ","output":"We will get cold"}
+{"output":"Their match is something I cannot understand","input":"\n* { they ; NOUN ; ils.png }  \n* { match ; NOUN ; 8342_1.png.64x64_q85.png }  \n* { be ; VERB ; etre.png }  \n* { I can't understand you ; NOUN ; 7180_1.png.64x64_q85.png }  \n* { negate ; NEGATED ; no.png } "}
+{"input":"\n* { they ; NOUN ; elles.png }  \n* { you ; CLITIC_PRONOUN ; vous.png }  \n* { toast ; NOUN ; 2787_1.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png } ","output":"They can have your toast"}
+{"output":"Has it for me","input":"\n* { for me ; NOUN ; 6632_1.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png } "}
+{"output":"I want to be bored","input":"\n* { boring ; ADJECTIVE ; 2245_2.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png } "}
+{"output":"Entertains","input":"\n* { entertain ; VERB ; 7099_1.png.64x64_q85.png } "}
+{"output":"That will be","input":"\n* { future ; TENSE_FUTURE ; future.png }  \n* { be ; VERB ; etre.png }  \n* { that ; NOUN ; that_one.png }  \n* { future ; TENSE_FUTURE ; future.png } "}
+{"input":"\n* { device ; NOUN ; 2612_2.png.64x64_q85.png }  \n* { to take ; VERB ; 4606_1.png.64x64_q85.png } ","output":"It takes the device"}
+{"output":"His collapse is yours to have","input":"\n* { have ; VERB ; avoir.png }  \n* { he ; NOUN ; il.png }  \n* { collapse ; NOUN ; 15820_1.png.64x64_q85.png }  \n* { yours ; NOUN ; 12281_1.png.64x64_q85.png } "}
+{"input":"\n* { you ; NOUN ; tu.png }  \n* { hostel ; NOUN ; 11222_1.png.64x64_q85.png } ","output":"You in the hostel"}
+{"output":"We let it happen","input":"\n* { past ; TENSE_PAST ; past.png }  \n* { can ; VERB ; pouvoir.png }  \n* { let's ; NOUN ; on.png } "}
+{"output":"You observing","input":"\n* { you ; NOUN ; tu.png }  \n* { to observe ; NOUN ; 2474_2.png.64x64_q85.png } "}
+{"input":"\n* { teeth ; NOUN ; 2737_1.png.64x64_q85.png }  \n* { them ; CLITIC_PRONOUN ; ils.png } ","output":"Their teeth"}
+{"input":"\n* { they ; NOUN ; ils.png }  \n* { nonsense ; NOUN ; 15483.png.64x64_q85.png }  \n* { them ; CLITIC_PRONOUN ; ils.png }  \n* { curls ; NOUN ; 5564_1.png.64x64_q85.png }  \n* { match ; NOUN ; 8342_1.png.64x64_q85.png } ","output":"They, their nonsense curls, and a match"}
+{"input":"\n* { motorised wheelchair ; NOUN ; 9121_1.png.64x64_q85.png }  \n* { let's ; NOUN ; on.png }  \n* { all / everything ; NOUN ; 5596_1.png.64x64_q85.png }  \n* { negate ; NEGATED ; no.png } ","output":"Let's not put everything in the motorised wheelchair"}
+{"input":"\n* { they ; NOUN ; elles.png } ","output":"They"}
+{"output":"You do not have yours","input":"\n* { your ; ADJECTIVE ; 12281_1.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png }  \n* { you ; NOUN ; tu.png }  \n* { negate ; NEGATED ; no.png } "}
+{"output":"Let's","input":"\n* { let's ; NOUN ; on.png } "}
+{"input":"\n* { past ; TENSE_PAST ; past.png }  \n* { equal sign ; ADJECTIVE ; 3423_1.png.64x64_q85.png }  \n* { she ; NOUN ; elle.png }  \n* { have ; VERB ; avoir.png }  \n* { firecracker ; NOUN ; 16851.png.64x64_q85.png }  \n* { us ; CLITIC_PRONOUN ; nous.png } ","output":"She had the same firecrackers as we had"}
+{"output":"That does not?","input":"\n* { negate ; NEGATED ; no.png }  \n* { that ; NOUN ; that_one.png }  \n* { question ; QUESTION ; question.png } "}
+{"input":"\n* { have ; VERB ; avoir.png } ","output":"Has"}
+{"output":"The washbasin in the ambulance is hers","input":"\n* { ambulance ; NOUN ; 2251_2.png.64x64_q85.png }  \n* { washbasin ; NOUN ; 2441_2.png.64x64_q85.png }  \n* { be ; VERB ; etre.png }  \n* { her ; CLITIC_PRONOUN ; elle.png } "}
+{"input":"\n* { they ; NOUN ; elles.png }  \n* { have ; VERB ; avoir.png }  \n* { them ; CLITIC_PRONOUN ; elles.png }  \n* { negate ; NEGATED ; no.png }  \n* { past ; TENSE_PAST ; past.png } ","output":"They did not have them"}
+{"input":"\n* { past ; TENSE_PAST ; past.png }  \n* { be ; VERB ; etre.png }  \n* { congratulations! ; NOUN ; 13018_1.png.64x64_q85.png } ","output":"Congratulations! It was"}
+{"output":"While sleeping, there is nonsense inside","input":"\n* { inside ; ADJECTIVE ; 5439_1.png.64x64_q85.png }  \n* { to sleep ; VERB ; 2369_2.png.64x64_q85.png }  \n* { nonsense ; NOUN ; 15483.png.64x64_q85.png } "}
+{"input":"\n* { organise ; VERB ; 2872_1.png.64x64_q85.png }  \n* { congratulations! ; NOUN ; 13018_1.png.64x64_q85.png } ","output":"Congratulations! For organising"}
+{"output":"Can touch it","input":"\n* { touch ; NOUN ; 3293_1.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png } "}
+{"output":"Her chocolate egg","input":"\n* { chocolate egg ; NOUN ; 11304_1.png.64x64_q85.png }  \n* { her ; CLITIC_PRONOUN ; elle.png } "}
+{"input":"\n* { hand soap ; NOUN ; 2964_1.png.64x64_q85.png }  \n* { you ; CLITIC_PRONOUN ; vous.png } ","output":"Your hand soap"}
+{"output":"You are","input":"\n* { you ; NOUN ; vous.png }  \n* { be ; VERB ; etre.png } "}
+{"output":"I","input":"\n* { I ; NOUN ; je.png } "}
+{"output":"Do not grip slowly","input":"\n* { negate ; NEGATED ; no.png }  \n* { to grip ; VERB ; 4606_1.png.64x64_q85.png }  \n* { slow ; ADJECTIVE ; 4676_1.png.64x64_q85.png } "}
+{"input":"\n* { you ; NOUN ; tu.png }  \n* { can ; VERB ; pouvoir.png }  \n* { swimming pool ; NOUN ; 3142_1.png.64x64_q85.png } ","output":"You can go to the swimming pool"}
+{"input":"\n* { caravan ; NOUN ; 3180_1.png.64x64_q85.png } ","output":"Caravan"}
+{"input":"\n* { New Year ; NOUN ; 5071_1.png.64x64_q85.png }  \n* { you ; CLITIC_PRONOUN ; tu.png }  \n* { want ; VERB ; vouloir.png } ","output":"I want to celebrate New Year with you"}
+{"output":"That pillow is wanted","input":"\n* { want ; VERB ; vouloir.png }  \n* { pillow ; NOUN ; 2250_2.png.64x64_q85.png }  \n* { that ; NOUN ; that_one.png } "}
+{"output":"Construction, cake and vehicles","input":"\n* { constructions  ; NOUN ; 4930_1.png.64x64_q85.png }  \n* { cake ; NOUN ; 2502_2.png.64x64_q85.png }  \n* { vehicles ; NOUN ; 10351_1.png.64x64_q85.png } "}
+{"output":"They need to pee the same as you","input":"\n* { they ; NOUN ; elles.png }  \n* { be ; VERB ; etre.png }  \n* { you ; CLITIC_PRONOUN ; vous.png }  \n* { pee ; NOUN ; 3429_1.png.64x64_q85.png } "}
+{"output":"We","input":"\n* { we ; NOUN ; nous.png } "}
+{"output":"Will not can","input":"\n* { negate ; NEGATED ; no.png }  \n* { future ; TENSE_FUTURE ; future.png }  \n* { can ; VERB ; pouvoir.png } "}
+{"input":"\n* { turn ; VERB ; 6006_1.png.64x64_q85.png }  \n* { i'm fine! ; NOUN ; 13630_1.png.64x64_q85.png }  \n* { march ; NOUN ; 21976.png.64x64_q85.png }  \n* { let's ; NOUN ; on.png }  \n* { touch ; NOUN ; 3293_1.png.64x64_q85.png } ","output":"I'm fine! Let's turn the march and touch"}
+{"output":"Was","input":"\n* { past ; TENSE_PAST ; past.png }  \n* { be ; VERB ; etre.png } "}
+{"output":"Is","input":"\n* { be ; VERB ; etre.png } "}
+{"input":"\n* { vehicle ; NOUN ; 2339_2.png.64x64_q85.png }  \n* { to paint ; VERB ; 2348_2.png.64x64_q85.png }  \n* { them ; CLITIC_PRONOUN ; elles.png }  \n* { outside ; ADJECTIVE ; 5475_1.png.64x64_q85.png } ","output":"They paint outside the vehicle"}
+{"input":"\n* { mosquito ; NOUN ; 2479_2.png.64x64_q85.png }  \n* { to give ; VERB ; 17038_1.png.64x64_q85.png }  \n* { month ; NOUN ; 7161_1.png.64x64_q85.png }  \n* { them ; CLITIC_PRONOUN ; elles.png } ","output":"The month gives them a lot of mosquitoes"}
+{"input":"\n* { ring ; NOUN ; 2252_2.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png }  \n* { his/hers/its ; ADJECTIVE ; 12272_1.png.64x64_q85.png } ","output":"It can have his ring"}
+{"output":"You want it large","input":"\n* { you ; NOUN ; tu.png }  \n* { large ; ADJECTIVE ; 4658_1.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png } "}
+{"input":"\n* { we ; NOUN ; nous.png }  \n* { you ; CLITIC_PRONOUN ; tu.png } ","output":"We and you"}
+{"input":"\n* { sledge ; NOUN ; 3161_1.png.64x64_q85.png } ","output":"Sledge"}
+{"output":"We can go to the dining room","input":"\n* { dining room ; NOUN ; 5970_1.png.64x64_q85.png }  \n* { us ; CLITIC_PRONOUN ; nous.png }  \n* { can ; VERB ; pouvoir.png } "}
+{"output":"Green olives","input":"\n* { green olives ; NOUN ; 2874_1.png.64x64_q85.png } "}
+{"input":"\n* { she ; NOUN ; elle.png } ","output":"She"}
+{"input":"\n* { get up from the chair ; VERB ; 4677_1.png.64x64_q85.png }  \n* { board ; NOUN ; 4752_1.png.64x64_q85.png } ","output":"The surfboard stands up"}
+{"output":"She has an easy time with the verbs in the radio","input":"\n* { she ; NOUN ; elle.png }  \n* { verb ; NOUN ; 7297_1.png.64x64_q85.png }  \n* { be ; VERB ; etre.png }  \n* { radio ; NOUN ; 11354_1.png.64x64_q85.png }  \n* { easy ; ADJECTIVE ; 4645_1.png.64x64_q85.png } "}
+{"output":"They are between that","input":"\n* { they ; NOUN ; ils.png }  \n* { between ; ADJECTIVE ; 5449_1.png.64x64_q85.png }  \n* { be ; VERB ; etre.png } "}
+{"output":"You act nonsense for us with steps, bread and the xylophone","input":"\n* { to act ; VERB ; 4554_1.png.64x64_q85.png }  \n* { steps ; NOUN ; 2379_2.png.64x64_q85.png }  \n* { bread ; NOUN ; 2494_2.png.64x64_q85.png }  \n* { you ; CLITIC_PRONOUN ; vous.png }  \n* { nonsense ; NOUN ; 15483.png.64x64_q85.png }  \n* { xylophone ; NOUN ; 2616_2.png.64x64_q85.png }  \n* { us ; CLITIC_PRONOUN ; nous.png } "}
+{"input":"\n* { you ; NOUN ; vous.png }  \n* { subdued ; NOUN ; 8252_1.png.64x64_q85.png }  \n* { them ; CLITIC_PRONOUN ; ils.png } ","output":"You and they are calm"}
+{"input":"\n* { past ; TENSE_PAST ; past.png }  \n* { want ; VERB ; vouloir.png }  \n* { he ; NOUN ; il.png }  \n* { to empty ; VERB ; 15487_1.png.64x64_q85.png } ","output":"He wanted it empty"}
+{"input":"\n* { that ; NOUN ; that_one.png }  \n* { want ; VERB ; vouloir.png } ","output":"That wants"}
+{"output":"The order was wanted","input":"\n* { want ; VERB ; vouloir.png }  \n* { order ; NOUN ; 11251_1.png.64x64_q85.png }  \n* { past ; TENSE_PAST ; past.png } "}
+{"input":"\n* { I ; NOUN ; je.png }  \n* { can ; VERB ; pouvoir.png }  \n* { negate ; NEGATED ; no.png } ","output":"I cannot do that"}
+{"input":"\n* { you ; NOUN ; vous.png }  \n* { be ; VERB ; etre.png }  \n* { let's ; NOUN ; on.png }  \n* { girl ; NOUN ; 2484_2.png.64x64_q85.png }  \n* { them ; CLITIC_PRONOUN ; ils.png } ","output":"Let's be with you, the girl and them"}
+{"input":"\n* { she ; NOUN ; elle.png }  \n* { have ; VERB ; avoir.png }  \n* { vitamins ; NOUN ; 9170_1.png.64x64_q85.png } ","output":"She has vitamins"}
+{"output":"The foot is not allowed","input":"\n* { to deny ; VERB ; 5525_1.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png }  \n* { feet ; NOUN ; 2841_1.png.64x64_q85.png } "}
+{"input":"\n* { they ; NOUN ; elles.png }  \n* { smoke ; NOUN ; 6529_1.png.64x64_q85.png } ","output":"Their smoke"}
+{"output":"They, they, and they are close and the noise is disturbing me","input":"\n* { they ; NOUN ; elles.png }  \n* { them ; CLITIC_PRONOUN ; elles.png }  \n* { them ; CLITIC_PRONOUN ; ils.png }  \n* { Noise is disturbing me ; NOUN ; 7157_1.png.64x64_q85.png }  \n* { close ; ADJECTIVE ; 5426_1.png.64x64_q85.png } "}
+{"output":"That far","input":"\n* { far ; ADJECTIVE ; 5767_1.png.64x64_q85.png }  \n* { that ; NOUN ; that_one.png } "}
+{"output":"There are art lessons","input":"\n* { have ; VERB ; avoir.png }  \n* { Art lesson ; NOUN ; 11245_1.png.64x64_q85.png } "}
+{"input":"\n* { patisserie ; NOUN ; 2857_1.png.64x64_q85.png }  \n* { be ; VERB ; etre.png }  \n* { thermometer ; NOUN ; 2789_1.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png }  \n* { leg ; NOUN ; 8666_1.png.64x64_q85.png } ","output":"The thermometer in the patisserie can have it in the leg"}
+{"input":"\n* { he ; NOUN ; il.png }  \n* { to come ; VERB ; 6581_1.png.64x64_q85.png }  \n* { drum ; NOUN ; 2578_2.png.64x64_q85.png } ","output":"He comes to play drums"}
+{"output":"I will have you and us","input":"\n* { I ; NOUN ; je.png }  \n* { have ; VERB ; avoir.png }  \n* { you ; CLITIC_PRONOUN ; vous.png }  \n* { us ; CLITIC_PRONOUN ; nous.png }  \n* { future ; TENSE_FUTURE ; future.png } "}
+{"output":"She in June","input":"\n* { June ; NOUN ; 6539_1.png.64x64_q85.png }  \n* { her ; CLITIC_PRONOUN ; elle.png } "}
+{"output":"Let's be","input":"\n* { let's ; NOUN ; on.png }  \n* { be ; VERB ; etre.png } "}
+{"input":"\n* { cute ; ADJECTIVE ; 11194_1.png.64x64_q85.png }  \n* { be ; VERB ; etre.png }  \n* { negate ; NEGATED ; no.png } ","output":"It is not cute"}
+{"input":"\n* { skirt ; NOUN ; 2391_2.png.64x64_q85.png }  \n* { him ; CLITIC_PRONOUN ; il.png }  \n* { smooth ; ADJECTIVE ; 4578_1.png.64x64_q85.png } ","output":"His smooth skirt"}
+{"input":"\n* { unpleasant ; ADJECTIVE ; 6155_1.png.64x64_q85.png }  \n* { be ; VERB ; etre.png }  \n* { fork ; NOUN ; 2588_2.png.64x64_q85.png } ","output":"The fork is unpleasant"}
+{"input":"\n* { that ; NOUN ; that_one.png }  \n* { perfomance ; NOUN ; 4602_1.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png }  \n* { be ; VERB ; etre.png }  \n* { negate ; NEGATED ; no.png } ","output":"That perfomance has not to be"}
+{"output":"Let's go to the place","input":"\n* { let's ; NOUN ; on.png }  \n* { to place ; VERB ; 6989_1.png.64x64_q85.png } "}
+{"output":"Get the right-hand soaked Â ","input":"\n* { right-handed ; ADJECTIVE ; 4624_1.png.64x64_q85.png }  \n* { to get soaked ; VERB ; 6149_1.png.64x64_q85.png } "}
+{"input":"\n* { to sit ; VERB ; 2801_1.png.64x64_q85.png }  \n* { torch ; NOUN ; 5905_1.png.64x64_q85.png } ","output":"The torch sits"}
+{"output":"Their fair stands will increase the steak","input":"\n* { they ; NOUN ; elles.png }  \n* { fair stands ; NOUN ; 4760_1.png.64x64_q85.png }  \n* { future ; TENSE_FUTURE ; future.png }  \n* { increase power ; VERB ; 6218_1.png.64x64_q85.png }  \n* { steak (meat) ; NOUN ; 2316_2.png.64x64_q85.png } "}
+{"output":"Does she follow the sunflower? To their hotel","input":"\n* { to follow ; VERB ; 4670_1.png.64x64_q85.png }  \n* { sunflower ; NOUN ; 11274_1.png.64x64_q85.png }  \n* { her ; CLITIC_PRONOUN ; elle.png }  \n* { dot ; DOT ; point.png }  \n* { question ; QUESTION ; question.png }  \n* { hotel ; NOUN ; 9895_1.png.64x64_q85.png }  \n* { them ; CLITIC_PRONOUN ; elles.png } "}
+{"input":"\n* { congratulations! ; NOUN ; 13018_1.png.64x64_q85.png } ","output":"Congratulations!"}
+{"output":"I will","input":"\n* { future ; TENSE_FUTURE ; future.png }  \n* { I ; NOUN ; je.png } "}
+{"input":"\n* { I ; NOUN ; je.png }  \n* { cent ; NOUN ; 4775_1.png.64x64_q85.png } ","output":"My cent"}
+{"input":"\n* { hit ; NOUN ; 3369_1.png.64x64_q85.png }  \n* { be ; VERB ; etre.png }  \n* { that ; NOUN ; that_one.png } ","output":"This is what to hit"}
+{"output":"She could go to the church","input":"\n* { past ; TENSE_PAST ; past.png }  \n* { church ; NOUN ; 3118_1.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png }  \n* { her ; CLITIC_PRONOUN ; elle.png } "}
+{"output":"What's the weather like? The strong wins","input":"\n* { what's the weather like? ; NOUN ; 7223_1.png.64x64_q85.png }  \n* { win ; VERB ; 7218_1.png.64x64_q85.png }  \n* { strong ; ADJECTIVE ; 4655_1.png.64x64_q85.png } "}
+{"input":"\n* { she ; NOUN ; elle.png }  \n* { with ; PREPOSITION ; 7064_1.png.64x64_q85.png }  \n* { be ; VERB ; etre.png } ","output":"She is with something"}
+{"output":"Can grandfather and my right hand do it? The puzzle","input":"\n* { can ; VERB ; pouvoir.png }  \n* { grandfather ; NOUN ; 2244_2.png.64x64_q85.png }  \n* { right hand ; NOUN ; 4624_1.png.64x64_q85.png }  \n* { question ; QUESTION ; question.png }  \n* { puzzle ; NOUN ; 2540_2.png.64x64_q85.png } "}
+{"input":"\n* { few ; ADJECTIVE ; 5546_1.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png } ","output":"Few are wanted"}
+{"output":"Blocks and wheelchair","input":"\n* { blocks ; NOUN ; 4921_1.png.64x64_q85.png }  \n* { wheelchair ; NOUN ; 6212_1.png.64x64_q85.png } "}
+{"output":"You all have","input":"\n* { you ; NOUN ; vous.png }  \n* { have ; VERB ; avoir.png } "}
+{"output":"We have plasticine","input":"\n* { plasticine ; NOUN ; 2529_2.png.64x64_q85.png }  \n* { us ; CLITIC_PRONOUN ; nous.png }  \n* { have ; VERB ; avoir.png } "}
+{"input":"\n* { past ; TENSE_PAST ; past.png }  \n* { have ; VERB ; avoir.png }  \n* { they ; NOUN ; ils.png } ","output":"They had"}
+{"output":"Shirt","input":"\n* { shirt ; NOUN ; 2308_2.png.64x64_q85.png } "}
+{"input":"\n* { Saturday ; NOUN ; 6605_1.png.64x64_q85.png }  \n* { goat ; NOUN ; 2295_2.png.64x64_q85.png }  \n* { that ; NOUN ; that_one.png }  \n* { myself ; CLITIC_PRONOUN ; je.png } ","output":"On Saturday, that goat will be mine"}
+{"input":"\n* { that ; NOUN ; that_one.png }  \n* { us ; CLITIC_PRONOUN ; nous.png } ","output":"That is ours"}
+{"input":"\n* { future ; TENSE_FUTURE ; future.png }  \n* { you ; NOUN ; vous.png }  \n* { be ; VERB ; etre.png } ","output":"You all will be"}
+{"output":"The glass could have been","input":"\n* { past ; TENSE_PAST ; past.png }  \n* { can ; VERB ; pouvoir.png }  \n* { glass ; NOUN ; 2356_2.png.64x64_q85.png } "}
+{"input":"\n* { she ; NOUN ; elle.png }  \n* { have ; VERB ; avoir.png }  \n* { future ; TENSE_FUTURE ; future.png }  \n* { negate ; NEGATED ; no.png } ","output":"She will not have"}
+{"input":"\n* { homework ; NOUN ; 11228_1.png.64x64_q85.png }  \n* { to have ; VERB ; 2276_2.png.64x64_q85.png }  \n* { future ; TENSE_FUTURE ; future.png }  \n* { us ; CLITIC_PRONOUN ; nous.png } ","output":"We will have to do homework"}
+{"input":"\n* { to get soaked ; VERB ; 6149_1.png.64x64_q85.png } ","output":"Get soaked"}
+{"output":"They do not","input":"\n* { they ; NOUN ; ils.png }  \n* { negate ; NEGATED ; no.png } "}
+{"output":"Had black russian salad","input":"\n* { black ; ADJECTIVE ; 2886_1.png.64x64_q85.png }  \n* { russian salad ; NOUN ; 8104_1.png.64x64_q85.png }  \n* { past ; TENSE_PAST ; past.png } "}
+{"input":"\n* { mouth ; NOUN ; 2663_1.png.64x64_q85.png }  \n* { equals ; ADJECTIVE ; 4667_1.png.64x64_q85.png }  \n* { past ; TENSE_PAST ; past.png } ","output":"Was the same mouth"}
+{"output":"We","input":"\n* { we ; NOUN ; nous.png } "}
+{"output":"They are","input":"\n* { they ; NOUN ; elles.png }  \n* { be ; VERB ; etre.png } "}
+{"output":"They cannot duster the different steps","input":"\n* { negate ; NEGATED ; no.png }  \n* { they ; NOUN ; elles.png }  \n* { can ; VERB ; pouvoir.png }  \n* { steps ; NOUN ; 2379_2.png.64x64_q85.png }  \n* { feather duster ; NOUN ; 2825_1.png.64x64_q85.png }  \n* { diverse ; ADJECTIVE ; 4628_1.png.64x64_q85.png } "}
+{"input":"\n* { sister ; NOUN ; 2422_2.png.64x64_q85.png }  \n* { be ; VERB ; etre.png } ","output":"There is a sister"}
+{"input":"\n* { that ; NOUN ; that_one.png }  \n* { have ; VERB ; avoir.png }  \n* { them ; CLITIC_PRONOUN ; elles.png }  \n* { her ; CLITIC_PRONOUN ; elle.png } ","output":"That belongs to them and her"}
+{"input":"\n* { thin ; ADJECTIVE ; 4623_1.png.64x64_q85.png }  \n* { to clean ; VERB ; 3351_1.png.64x64_q85.png } ","output":"The thin person is cleaning"}
+{"output":"It is the same","input":"\n* { equal sign ; ADJECTIVE ; 3423_1.png.64x64_q85.png }  \n* { be ; VERB ; etre.png } "}
+{"input":"\n* { to feel sick ; VERB ; 2464_2.png.64x64_q85.png }  \n* { future ; TENSE_FUTURE ; future.png } ","output":"Will feel sick"}
+{"output":"I want them to break up","input":"\n* { goodbye ; NOUN ; 5896_1.png.64x64_q85.png }  \n* { lovers ; ADJECTIVE ; 4558_1.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png }  \n* { that ; NOUN ; that_one.png } "}
+{"output":"They, you and I want to know the climate","input":"\n* { want ; VERB ; vouloir.png }  \n* { climate ; NOUN ; 7223_1.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png }  \n* { them ; CLITIC_PRONOUN ; ils.png }  \n* { you ; CLITIC_PRONOUN ; tu.png }  \n* { myself ; CLITIC_PRONOUN ; je.png } "}
+{"output":"He","input":"\n* { he ; NOUN ; il.png } "}
+{"output":"You break thins with your right-hand","input":"\n* { you ; NOUN ; tu.png }  \n* { right-handed ; ADJECTIVE ; 4624_1.png.64x64_q85.png }  \n* { to break ; VERB ; 4735_1.png.64x64_q85.png } "}
+{"output":"Later open below for the pegs","input":"\n* { pegs ; NOUN ; 2833_1.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png }  \n* { open ; VERB ; 2637_1.png.64x64_q85.png }  \n* { below ; ADJECTIVE ; 5355_1.png.64x64_q85.png } "}
+{"input":"\n* { boy ; NOUN ; 2485_2.png.64x64_q85.png }  \n* { I want that one ; NOUN ; 5441_1.png.64x64_q85.png }  \n* { to be ; VERB ; 5465_1.png.64x64_q85.png } ","output":"The boy wants to be"}
+{"input":"\n* { good afternoon ; NOUN ; 6943_1.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png }  \n* { french omelette ; NOUN ; 4967_1.png.64x64_q85.png } ","output":"Good afternoon with a french omelette"}
+{"input":"\n* { future ; TENSE_FUTURE ; future.png }  \n* { we ; NOUN ; nous.png }  \n* { past ; TENSE_PAST ; past.png }  \n* { four ; NOUN ; 2630_1.png.64x64_q85.png } ","output":"We are four right now"}
+{"input":"\n* { they ; NOUN ; ils.png }  \n* { birthdays ; NOUN ; 3087_1.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png }  \n* { be ; VERB ; etre.png } ","output":"Their birthday has to be"}
+{"output":"Money","input":"\n* { notes ; NOUN ; 8506_1.png.64x64_q85.png } "}
+{"input":"\n* { negate ; NEGATED ; no.png }  \n* { can ; VERB ; pouvoir.png }  \n* { to assault ; VERB ; 4714_1.png.64x64_q85.png } ","output":"Can not assault"}
+{"input":"\n* { you ; NOUN ; vous.png }  \n* { where? ; ADJECTIVE ; 7764_1.png.64x64_q85.png } ","output":"Where are you all?"}
+{"output":"Sorry! There is a skier","input":"\n* { sorry! ; NOUN ; 11625_1.png.64x64_q85.png }  \n* { skier ; NOUN ; 3097_1.png.64x64_q85.png } "}
+{"input":"\n* { wish for / want ; VERB ; 5441_1.png.64x64_q85.png }  \n* { negate ; NEGATED ; no.png }  \n* { he ; NOUN ; il.png } ","output":"He does want"}
+{"input":"\n* { Russian salad ; NOUN ; 8104_1.png.64x64_q85.png }  \n* { her ; CLITIC_PRONOUN ; elle.png }  \n* { negate ; NEGATED ; no.png }  \n* { season ; NOUN ; 5493_1.png.64x64_q85.png } ","output":"She thinks this is not the season for Russian salad"}
+{"output":"Let us all be","input":"\n* { we ; NOUN ; nous.png }  \n* { be ; VERB ; etre.png }  \n* { let's ; NOUN ; on.png } "}
+{"output":"Gloves","input":"\n* { gloves ; NOUN ; 2415_2.png.64x64_q85.png } "}
+{"output":"There is toast","input":"\n* { to toast ; VERB ; 17330.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png } "}
+{"output":"The post is not mine","input":"\n* { post ; NOUN ; 4631_1.png.64x64_q85.png }  \n* { negate ; NEGATED ; no.png }  \n* { be ; VERB ; etre.png }  \n* { myself ; CLITIC_PRONOUN ; je.png } "}
+{"input":"\n* { negate ; NEGATED ; no.png }  \n* { future ; TENSE_FUTURE ; future.png }  \n* { stone ; NOUN ; 6594_1.png.64x64_q85.png } ","output":"Stone will not do"}
+{"input":"\n* { be ; VERB ; etre.png } ","output":"Is"}
+{"output":"Let's divide that fun activity","input":"\n* { we ; NOUN ; nous.png }  \n* { that ; NOUN ; that_one.png }  \n* { fun ; ADJECTIVE ; 7099_1.png.64x64_q85.png }  \n* { to divide ; VERB ; 4735_1.png.64x64_q85.png }  \n* { let's ; NOUN ; on.png } "}
+{"input":"\n* { bubbles ; NOUN ; 6945_1.png.64x64_q85.png }  \n* { past ; TENSE_PAST ; past.png } ","output":"Won't have bubbles"}
+{"output":"I put together the CDs","input":"\n* { cd ; NOUN ; 15349_1.png.64x64_q85.png }  \n* { past ; TENSE_PAST ; past.png }  \n* { to string (together) ; VERB ; 5454_1.png.64x64_q85.png } "}
+{"output":"We do not want","input":"\n* { want ; VERB ; vouloir.png }  \n* { negate ; NEGATED ; no.png }  \n* { we ; NOUN ; nous.png } "}
+{"output":"The playground has it","input":"\n* { recreation area ; NOUN ; 6204_1.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png } "}
+{"output":"I want that ring separated from the usb flash drive","input":"\n* { ring ; NOUN ; 2252_2.png.64x64_q85.png }  \n* { separated ; ADJECTIVE ; 5767_1.png.64x64_q85.png }  \n* { I want that one ; NOUN ; 5441_1.png.64x64_q85.png }  \n* { usb flash drive ; NOUN ; 9800_1.png.64x64_q85.png } "}
+{"input":"\n* { he ; NOUN ; il.png }  \n* { want ; VERB ; vouloir.png }  \n* { let's ; NOUN ; on.png } ","output":"Let's him do it"}
+{"input":"\n* { cake ; NOUN ; 2502_2.png.64x64_q85.png }  \n* { be ; VERB ; etre.png }  \n* { let's ; NOUN ; on.png } ","output":"Let it be cake"}
+{"input":"\n* { let's ; NOUN ; on.png }  \n* { them ; CLITIC_PRONOUN ; elles.png }  \n* { be ; VERB ; etre.png } ","output":"Let's be with them"}
+{"input":"\n* { I ; NOUN ; je.png }  \n* { minus/less ; ADJECTIVE ; 5512_1.png.64x64_q85.png } ","output":"Without me"}
+{"output":"Had","input":"\n* { past ; TENSE_PAST ; past.png }  \n* { have ; VERB ; avoir.png } "}
+{"output":"Under the front of the mouth","input":"\n* { in front of ; ADJECTIVE ; 5438_1.png.64x64_q85.png }  \n* { below ; ADJECTIVE ; 5355_1.png.64x64_q85.png }  \n* { mouth ; NOUN ; 2663_1.png.64x64_q85.png } "}
+{"output":"They and they can be with me","input":"\n* { they ; NOUN ; ils.png }  \n* { them ; CLITIC_PRONOUN ; ils.png }  \n* { can ; VERB ; pouvoir.png }  \n* { myself ; CLITIC_PRONOUN ; je.png } "}
+{"input":"\n* { I ; NOUN ; je.png }  \n* { be ; VERB ; etre.png } ","output":"I am"}
+{"output":"This is the bucket","input":"\n* { bucket ; NOUN ; 2361_2.png.64x64_q85.png }  \n* { be ; VERB ; etre.png } "}
+{"input":"\n* { she ; NOUN ; elle.png }  \n* { to purchase ; VERB ; 6457_1.png.64x64_q85.png }  \n* { white bread ; NOUN ; 2494_2.png.64x64_q85.png }  \n* { raincoat ; NOUN ; 4927_1.png.64x64_q85.png }  \n* { bag ; NOUN ; 6065_1.png.64x64_q85.png } ","output":"She purchases white bread, a raincoat and a bag"}
+{"input":"\n* { tortoise ; NOUN ; 2596_2.png.64x64_q85.png } ","output":"Tortoise"}
+{"input":"\n* { future ; TENSE_FUTURE ; future.png }  \n* { let's ; NOUN ; on.png }  \n* { myself ; CLITIC_PRONOUN ; je.png }  \n* { want ; VERB ; vouloir.png } ","output":"I want to let myself be"}
+{"output":"The boy gives you and me that itch","input":"\n* { boy ; NOUN ; 2485_2.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png }  \n* { myself ; CLITIC_PRONOUN ; je.png }  \n* { you ; CLITIC_PRONOUN ; vous.png }  \n* { that ; NOUN ; that_one.png }  \n* { to itch  ; VERB ; 11356_1.png.64x64_q85.png } "}
+{"input":"\n* { sheep ; NOUN ; 2489_2.png.64x64_q85.png }  \n* { negate ; NEGATED ; no.png }  \n* { question ; QUESTION ; question.png }  \n* { can ; VERB ; pouvoir.png }  \n* { past ; TENSE_PAST ; past.png } ","output":"Does not the sheep do it? It won't"}
+{"output":"We cannot do it","input":"\n* { we ; NOUN ; nous.png }  \n* { can ; VERB ; pouvoir.png }  \n* { negate ; NEGATED ; no.png } "}
+{"input":"\n* { she ; NOUN ; elle.png } ","output":"She"}
+{"input":"\n* { large ; ADJECTIVE ; 4658_1.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png }  \n* { let's ; NOUN ; on.png } ","output":"Let's have a large one"}
+{"input":"\n* { we ; NOUN ; nous.png }  \n* { can ; VERB ; pouvoir.png }  \n* { that ; NOUN ; that_one.png }  \n* { tooth brush ; NOUN ; 2694_1.png.64x64_q85.png }  \n* { her ; CLITIC_PRONOUN ; elle.png }  \n* { myself ; CLITIC_PRONOUN ; je.png }  \n* { dot ; DOT ; point.png }  \n* { myself ; CLITIC_PRONOUN ; je.png } ","output":"We can have that tooth brush, it is hers and mine. Mine"}
+{"output":"It can happen in January","input":"\n* { January ; NOUN ; 6488_1.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png } "}
+{"output":"She wants the computer","input":"\n* { computer ; NOUN ; 2487_2.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png }  \n* { her ; CLITIC_PRONOUN ; elle.png } "}
+{"output":"Will he and I make a checklist in peace?","input":"\n* { he ; NOUN ; il.png }  \n* { myself ; CLITIC_PRONOUN ; je.png }  \n* { to make a checklist ; VERB ; 11327_1.png.64x64_q85.png }  \n* { subdued ; NOUN ; 8252_1.png.64x64_q85.png }  \n* { question ; QUESTION ; question.png } "}
+{"input":"\n* { fantastic ; NOUN ; 11599_1.png.64x64_q85.png }  \n* { to recall ; VERB ; 11357_1.png.64x64_q85.png }  \n* { let's ; NOUN ; on.png }  \n* { let's ; NOUN ; on.png } ","output":"Fantastic! Let's remember it"}
+{"output":"It could be sturdy","input":"\n* { sturdy ; ADJECTIVE ; 4655_1.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png }  \n* { past ; TENSE_PAST ; past.png } "}
+{"output":"They want to smile","input":"\n* { they ; NOUN ; ils.png }  \n* { smile ; NOUN ; 3245_1.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png }  \n* { dot ; DOT ; point.png }  \n* { dot ; DOT ; point.png } "}
+{"output":"Is he ashamed to refuse sunlight? That could be it","input":"\n* { to refuse ; VERB ; 5525_1.png.64x64_q85.png }  \n* { sunlight ; NOUN ; 2798_1.png.64x64_q85.png }  \n* { ashamed ; ADJECTIVE ; 2606_2.png.64x64_q85.png }  \n* { question ; QUESTION ; question.png }  \n* { that ; NOUN ; that_one.png } "}
+{"input":"\n* { let's ; NOUN ; on.png }  \n* { that ; NOUN ; that_one.png }  \n* { can ; VERB ; pouvoir.png }  \n* { to telephone ; VERB ; 4662_1.png.64x64_q85.png }  \n* { them ; CLITIC_PRONOUN ; elles.png } ","output":"Let's call them on that telephone"}
+{"input":"\n* { near ; ADJECTIVE ; 5426_1.png.64x64_q85.png }  \n* { he ; NOUN ; il.png }  \n* { her ; CLITIC_PRONOUN ; elle.png } ","output":"Near he and she"}
+{"input":"\n* { diverse ; ADJECTIVE ; 4628_1.png.64x64_q85.png }  \n* { be ; VERB ; etre.png } ","output":"It is diverse"}
+{"output":"He wants to be annoying","input":"\n* { annoying ; ADJECTIVE ; 7157_1.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png }  \n* { he ; NOUN ; il.png } "}
+{"output":"Let's go to your grove","input":"\n* { let's ; NOUN ; on.png }  \n* { can ; VERB ; pouvoir.png }  \n* { grove ; NOUN ; 2666_1.png.64x64_q85.png }  \n* { you ; CLITIC_PRONOUN ; tu.png } "}
+{"input":"\n* { farm ; NOUN ; 3337_1.png.64x64_q85.png }  \n* { future ; TENSE_FUTURE ; future.png }  \n* { puppet ; NOUN ; 3282_1.png.64x64_q85.png } ","output":"Will play farm puppets"}
+{"output":"Can have some nonsense","input":"\n* { nonsense ; NOUN ; 15483.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png }  \n* { can ; VERB ; pouvoir.png } "}
+{"input":"\n* { let's ; NOUN ; on.png }  \n* { on top of ; NOUN ; 7814_1.png.64x64_q85.png }  \n* { be ; VERB ; etre.png }  \n* { do not touch ; VERB ; 11595_1.png.64x64_q85.png }  \n* { them ; CLITIC_PRONOUN ; elles.png } ","output":"Let's be on top, do not touch them"}
+{"input":"\n* { to love ; VERB ; 4558_1.png.64x64_q85.png }  \n* { RGN (Registered General Nurse) ; NOUN ; 2375_2.png.64x64_q85.png }  \n* { myself ; CLITIC_PRONOUN ; je.png } ","output":"The nurse loves me"}
+{"input":"\n* { they ; NOUN ; ils.png }  \n* { root ; NOUN ; 3148_1.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png }  \n* { panties ; NOUN ; 2289_2.png.64x64_q85.png } ","output":"Their roots can have underwear"}
+{"input":"\n* { you ; NOUN ; vous.png }  \n* { them ; CLITIC_PRONOUN ; elles.png }  \n* { negate ; NEGATED ; no.png }  \n* { dentures ; NOUN ; 2737_1.png.64x64_q85.png } ","output":"You and they do not have dentures"}
+{"input":"\n* { games ; NOUN ; 6170_1.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png } ","output":"Can play games"}
+{"input":"\n* { I ; NOUN ; je.png }  \n* { be ; VERB ; etre.png } ","output":"I am"}
+{"input":"\n* { negate ; NEGATED ; no.png }  \n* { crystal ; NOUN ; 9140_1.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png } ","output":"The crystal is not wanted"}
+{"output":"They can be on a circle","input":"\n* { can ; VERB ; pouvoir.png }  \n* { they ; NOUN ; elles.png }  \n* { circle ; NOUN ; 4603_1.png.64x64_q85.png } "}
+{"output":"New Year's Day","input":"\n* { New Year's Day ; NOUN ; 5071_1.png.64x64_q85.png } "}
+{"input":"\n* { can ; VERB ; pouvoir.png }  \n* { negate ; NEGATED ; no.png }  \n* { past ; TENSE_PAST ; past.png }  \n* { be ; VERB ; etre.png }  \n* { plastic and visual education ; NOUN ; 13634_1.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png } ","output":"I couldn't be at the classroom but I wanted"}
+{"output":"She wants","input":"\n* { she ; NOUN ; elle.png }  \n* { want ; VERB ; vouloir.png } "}
+{"input":"\n* { they ; NOUN ; ils.png }  \n* { have ; VERB ; avoir.png }  \n* { them ; CLITIC_PRONOUN ; elles.png } ","output":"They have them"}
+{"output":"She has","input":"\n* { she ; NOUN ; elle.png }  \n* { have ; VERB ; avoir.png } "}
+{"output":"They have","input":"\n* { they ; NOUN ; ils.png }  \n* { have ; VERB ; avoir.png } "}
+{"input":"\n* { be ; VERB ; etre.png }  \n* { he ; NOUN ; il.png } ","output":"He is"}
+{"output":"There is an electric guitar","input":"\n* { electric guitar ; NOUN ; 8599_1.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png } "}
+{"output":"I will want to be outside and under it","input":"\n* { outside ; ADJECTIVE ; 5475_1.png.64x64_q85.png }  \n* { below ; ADJECTIVE ; 5355_1.png.64x64_q85.png }  \n* { I ; NOUN ; je.png }  \n* { want ; VERB ; vouloir.png }  \n* { future ; TENSE_FUTURE ; future.png } "}
+{"input":"\n* { good night ; NOUN ; 6942_1.png.64x64_q85.png }  \n* { open ; VERB ; 2637_1.png.64x64_q85.png }  \n* { you ; CLITIC_PRONOUN ; vous.png } ","output":"Good night! You open it"}
+{"input":"\n* { let's ; NOUN ; on.png }  \n* { be ; VERB ; etre.png }  \n* { negate ; NEGATED ; no.png }  \n* { bus ; NOUN ; 2262_2.png.64x64_q85.png }  \n* { joint ; ADJECTIVE ; 5367_1.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png } ","output":"We do not want to be in adjacent buses"}
+{"input":"\n* { I ; NOUN ; je.png }  \n* { them ; CLITIC_PRONOUN ; ils.png }  \n* { rucksack ; NOUN ; 2475_2.png.64x64_q85.png } ","output":"Me and their backpack"}
+{"output":"They do not dry themselves. He does it","input":"\n* { negate ; NEGATED ; no.png }  \n* { to dry oneself ; VERB ; 22104_1.png.64x64_q85.png }  \n* { they ; NOUN ; ils.png }  \n* { dot ; DOT ; point.png }  \n* { him ; CLITIC_PRONOUN ; il.png } "}
+{"input":"\n* { nose ; NOUN ; 2887_1.png.64x64_q85.png }  \n* { them ; CLITIC_PRONOUN ; elles.png } ","output":"Their nose"}
+{"output":"We go first","input":"\n* { we ; NOUN ; nous.png }  \n* { first ; ADJECTIVE ; 4726_1.png.64x64_q85.png } "}
+{"input":"\n* { cent ; NOUN ; 4775_1.png.64x64_q85.png } ","output":"Cent"}
+{"output":"I sell game equipment and drinks","input":"\n* { I ; NOUN ; je.png }  \n* { to sell ; VERB ; 6652_1.png.64x64_q85.png }  \n* { game equipment ; NOUN ; 9810_1.png.64x64_q85.png }  \n* { drinks ; NOUN ; 4575_1.png.64x64_q85.png } "}
+{"output":"You can be with her, with you and with him","input":"\n* { you ; NOUN ; vous.png }  \n* { can ; VERB ; pouvoir.png }  \n* { her ; CLITIC_PRONOUN ; elle.png }  \n* { you ; CLITIC_PRONOUN ; vous.png }  \n* { him ; CLITIC_PRONOUN ; il.png }  \n* { future ; TENSE_FUTURE ; future.png } "}
+{"input":"\n* { want ; VERB ; vouloir.png }  \n* { they ; NOUN ; elles.png }  \n* { handsaw ; NOUN ; 2799_1.png.64x64_q85.png } ","output":"They want a handsaw"}
+{"input":"\n* { incomprehension ; NOUN ; 15333.png.64x64_q85.png }  \n* { let's ; NOUN ; on.png }  \n* { him ; CLITIC_PRONOUN ; il.png } ","output":"Let's agree we cannot understand him"}
+{"output":"Let's have her ruler. The silver one","input":"\n* { let's ; NOUN ; on.png }  \n* { have ; VERB ; avoir.png }  \n* { them ; CLITIC_PRONOUN ; elles.png }  \n* { ruler ; NOUN ; 2815_1.png.64x64_q85.png }  \n* { dot ; DOT ; point.png }  \n* { silver ; ADJECTIVE ; 2827_1.png.64x64_q85.png } "}
+{"output":"Does not have","input":"\n* { negate ; NEGATED ; no.png }  \n* { have ; VERB ; avoir.png } "}
+{"input":"\n* { future ; TENSE_FUTURE ; future.png }  \n* { celebrate ; VERB ; 6969_1.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png }  \n* { question ; QUESTION ; question.png } ","output":"Will be able to celebrate can?"}
+{"input":"\n* { we ; NOUN ; nous.png } ","output":"We"}
+{"input":"\n* { I ; NOUN ; je.png }  \n* { be ; VERB ; etre.png }  \n* { question ; QUESTION ; question.png }  \n* { us ; CLITIC_PRONOUN ; nous.png } ","output":"Am I? We"}
+{"input":"\n* { that ; NOUN ; that_one.png }  \n* { i'm fine! ; NOUN ; 13630_1.png.64x64_q85.png }  \n* { offer ; VERB ; 17038_1.png.64x64_q85.png } ","output":"I'm fine with that offer"}
+{"output":"We tried it before","input":"\n* { let's ; NOUN ; on.png }  \n* { can ; VERB ; pouvoir.png }  \n* { past ; TENSE_PAST ; past.png } "}
+{"output":"They are that stick and a book","input":"\n* { they ; NOUN ; ils.png }  \n* { to be ; VERB ; 5465_1.png.64x64_q85.png }  \n* { that ; NOUN ; that_one.png }  \n* { stick ; NOUN ; 11322_1.png.64x64_q85.png }  \n* { book ; NOUN ; 2450_2.png.64x64_q85.png } "}
+{"output":"Those scissors will be celebrated","input":"\n* { that ; NOUN ; that_one.png }  \n* { to celebrate ; VERB ; 6969_1.png.64x64_q85.png }  \n* { pruning scissors ; NOUN ; 3403_1.png.64x64_q85.png }  \n* { future ; TENSE_FUTURE ; future.png } "}
+{"input":"\n* { she ; NOUN ; elle.png }  \n* { want ; VERB ; vouloir.png }  \n* { you ; CLITIC_PRONOUN ; vous.png }  \n* { evacuate ; ADJECTIVE ; 3428_1.png.64x64_q85.png } ","output":"She wants you all to go to the bathroom"}
+{"output":"Want to be let be afraid","input":"\n* { fear ; NOUN ; 10261_1.png.64x64_q85.png }  \n* { let's ; NOUN ; on.png }  \n* { want ; VERB ; vouloir.png }  \n* { have ; VERB ; avoir.png } "}
+{"input":"\n* { key ; NOUN ; 8153_1.png.64x64_q85.png }  \n* { no one ; ADJECTIVE ; 5800_1.png.64x64_q85.png }  \n* { to sniff around ; VERB ; 2486_2.png.64x64_q85.png } ","output":"No one smells the keys"}
+{"output":"We want ours wet for the meeting","input":"\n* { ours ; NOUN ; 12270_1.png.64x64_q85.png }  \n* { wet ; ADJECTIVE ; 4697_1.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png }  \n* { meeting ; NOUN ; 4551_1.png.64x64_q85.png } "}
+{"output":"You can put it in order","input":"\n* { can ; VERB ; pouvoir.png }  \n* { to order ; VERB ; 11251_1.png.64x64_q85.png }  \n* { you ; NOUN ; vous.png } "}
+{"output":"You and they are","input":"\n* { you ; NOUN ; vous.png }  \n* { them ; CLITIC_PRONOUN ; ils.png }  \n* { be ; VERB ; etre.png } "}
+{"output":"I am with his school table and puppet","input":"\n* { I ; NOUN ; je.png }  \n* { be ; VERB ; etre.png }  \n* { him ; CLITIC_PRONOUN ; il.png }  \n* { school table ; NOUN ; 11302_1.png.64x64_q85.png }  \n* { puppet ; NOUN ; 3282_1.png.64x64_q85.png } "}
+{"input":"\n* { she ; NOUN ; elle.png }  \n* { smoke ; NOUN ; 6529_1.png.64x64_q85.png }  \n* { to count ; VERB ; 2714_1.png.64x64_q85.png }  \n* { guitar ; NOUN ; 2417_2.png.64x64_q85.png }  \n* { you ; CLITIC_PRONOUN ; vous.png } ","output":"She and smoke count guitar and you"}
+{"input":"\n* { they ; NOUN ; elles.png }  \n* { walk ; VERB ; 3251_1.png.64x64_q85.png }  \n* { communicator ; NOUN ; 5971_1.png.64x64_q85.png }  \n* { pyjama ; NOUN ; 2522_2.png.64x64_q85.png } ","output":"They walk with the communicator in pyjamas"}
+{"output":"Blocks are his disguise","input":"\n* { blocks ; NOUN ; 4921_1.png.64x64_q85.png }  \n* { be ; VERB ; etre.png }  \n* { him ; CLITIC_PRONOUN ; il.png }  \n* { disguise ; NOUN ; 5985_1.png.64x64_q85.png } "}
+{"input":"\n* { you ; NOUN ; tu.png }  \n* { happy ; ADJECTIVE ; 3250_1.png.64x64_q85.png } ","output":"You are happy"}
+{"input":"\n* { they ; NOUN ; elles.png } ","output":"They"}
+{"output":"They have your pencil","input":"\n* { they ; NOUN ; elles.png }  \n* { have ; VERB ; avoir.png }  \n* { you ; CLITIC_PRONOUN ; vous.png }  \n* { propelling pencil ; NOUN ; 2440_2.png.64x64_q85.png } "}
+{"input":"\n* { they ; NOUN ; elles.png }  \n* { that ; NOUN ; that_one.png }  \n* { be ; VERB ; etre.png } ","output":"They are that"}
+{"input":"\n* { want ; VERB ; vouloir.png }  \n* { unhappy ; ADJECTIVE ; 2606_2.png.64x64_q85.png }  \n* { the same ; ADJECTIVE ; 3423_1.png.64x64_q85.png }  \n* { future ; TENSE_FUTURE ; future.png } ","output":"Will still want to be unhappy"}
+{"input":"\n* { trade ; NOUN ; 6457_1.png.64x64_q85.png }  \n* { writing ; NOUN ; 2380_2.png.64x64_q85.png }  \n* { that ; NOUN ; that_one.png }  \n* { myself ; CLITIC_PRONOUN ; je.png }  \n* { easy ; ADJECTIVE ; 4645_1.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png } ","output":"I want easy trade on that writing"}
+{"input":"\n* { you ; NOUN ; tu.png }  \n* { want ; VERB ; vouloir.png }  \n* { to act ; VERB ; 4554_1.png.64x64_q85.png }  \n* { negate ; NEGATED ; no.png } ","output":"You want to not act"}
+{"input":"\n* { blackboard ; NOUN ; 2526_2.png.64x64_q85.png }  \n* { let's ; NOUN ; on.png }  \n* { can ; VERB ; pouvoir.png } ","output":"Let's use the blackboard"}
+{"input":"\n* { future ; TENSE_FUTURE ; future.png }  \n* { can ; VERB ; pouvoir.png }  \n* { let's ; NOUN ; on.png } ","output":"Let's will be able to do it"}
+{"output":"The tortoise was wanted","input":"\n* { tortoise ; NOUN ; 2596_2.png.64x64_q85.png }  \n* { past ; TENSE_PAST ; past.png }  \n* { want ; VERB ; vouloir.png } "}
+{"input":"\n* { jacket ; NOUN ; 2319_2.png.64x64_q85.png }  \n* { future ; TENSE_FUTURE ; future.png }  \n* { want ; VERB ; vouloir.png } ","output":"Jacket will be needed"}
+{"input":"\n* { you ; NOUN ; tu.png }  \n* { them ; CLITIC_PRONOUN ; ils.png }  \n* { to photocopy ; VERB ; 8587_1.png.64x64_q85.png } ","output":"You and their photocopy machine"}
+{"input":"\n* { you ; NOUN ; vous.png } ","output":"You all"}
+{"input":"\n* { you ; NOUN ; tu.png }  \n* { can ; VERB ; pouvoir.png }  \n* { you ; CLITIC_PRONOUN ; vous.png } ","output":"You can be with you all"}
+{"output":"She will want","input":"\n* { she ; NOUN ; elle.png }  \n* { future ; TENSE_FUTURE ; future.png }  \n* { want ; VERB ; vouloir.png } "}
+{"input":"\n* { have ; VERB ; avoir.png }  \n* { computer technician ; NOUN ; 11284_1.png.64x64_q85.png }  \n* { alphabet ; NOUN ; 3050_1.png.64x64_q85.png }  \n* { negate ; NEGATED ; no.png } ","output":"Computer technicians do not have the alphabet"}
+{"input":"\n* { language ; NOUN ; 10259_1.png.64x64_q85.png } ","output":"Language"}
+{"output":"The rodent has to be hers","input":"\n* { rodent ; NOUN ; 2546_2.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png }  \n* { be ; VERB ; etre.png }  \n* { her ; CLITIC_PRONOUN ; elle.png }  \n* { dot ; DOT ; point.png } "}
+{"output":"You all","input":"\n* { you ; NOUN ; vous.png } "}
+{"output":"You all will be able to be with him","input":"\n* { you ; NOUN ; vous.png }  \n* { can ; VERB ; pouvoir.png }  \n* { him ; CLITIC_PRONOUN ; il.png }  \n* { future ; TENSE_FUTURE ; future.png } "}
+{"output":"She","input":"\n* { she ; NOUN ; elle.png } "}
+{"input":"\n* { have ; VERB ; avoir.png }  \n* { taxi ; NOUN ; 2580_2.png.64x64_q85.png }  \n* { her ; CLITIC_PRONOUN ; elle.png }  \n* { have ; VERB ; avoir.png }  \n* { negate ; NEGATED ; no.png } ","output":"She does not have a taxi"}
+{"input":"\n* { you ; NOUN ; tu.png }  \n* { can ; VERB ; pouvoir.png }  \n* { negate ; NEGATED ; no.png } ","output":"You cannot do"}
+{"input":"\n* { she ; NOUN ; elle.png }  \n* { can ; VERB ; pouvoir.png } ","output":"She can do"}
+{"output":"At night, you want to use a mask on your left hand when in a vehicle","input":"\n* { night ; NOUN ; 7181_1.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png }  \n* { left ; ADJECTIVE ; 4672_1.png.64x64_q85.png }  \n* { means of transport ; NOUN ; 10351_1.png.64x64_q85.png }  \n* { mask ; NOUN ; 5904_1.png.64x64_q85.png }  \n* { you ; CLITIC_PRONOUN ; vous.png } "}
+{"output":"He sells drinks","input":"\n* { he ; NOUN ; il.png }  \n* { to sell ; VERB ; 6652_1.png.64x64_q85.png }  \n* { drinks ; NOUN ; 4575_1.png.64x64_q85.png } "}
+{"input":"\n* { be ; VERB ; etre.png }  \n* { past ; TENSE_PAST ; past.png } ","output":"Was"}
+{"input":"\n* { long ; ADJECTIVE ; 4675_1.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png }  \n* { negate ; NEGATED ; no.png }  \n* { paper ; NOUN ; 2398_2.png.64x64_q85.png }  \n* { to get soaked ; VERB ; 6149_1.png.64x64_q85.png } ","output":"The paper does not have to get soaked for long"}
+{"output":"You have a sofa","input":"\n* { sofa ; NOUN ; 2571_2.png.64x64_q85.png }  \n* { you ; CLITIC_PRONOUN ; vous.png }  \n* { have ; VERB ; avoir.png } "}
+{"input":"\n* { be ; VERB ; etre.png }  \n* { panties ; NOUN ; 2289_2.png.64x64_q85.png } ","output":"There is underwear"}
+{"input":"\n* { gloves ; NOUN ; 2415_2.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png } ","output":"Gloves are wanted"}
+{"input":"\n* { they ; NOUN ; ils.png }  \n* { have ; VERB ; avoir.png }  \n* { journey ; NOUN ; 11393_1.png.64x64_q85.png } ","output":"They have a journey"}
+{"output":"Housing","input":"\n* { housing ; NOUN ; 2317_2.png.64x64_q85.png } "}
+{"input":"\n* { he ; NOUN ; il.png }  \n* { her ; CLITIC_PRONOUN ; elle.png }  \n* { be ; VERB ; etre.png }  \n* { want ; VERB ; vouloir.png }  \n* { belly button ; NOUN ; 2873_1.png.64x64_q85.png } ","output":"He and she are wanting belly button"}
+{"input":"\n* { be ; VERB ; etre.png }  \n* { hoops ; NOUN ; 11661_1.png.64x64_q85.png }  \n* { dot ; DOT ; point.png } ","output":"There are hoops"}
+{"input":"\n* { she ; NOUN ; elle.png }  \n* { means of transport ; NOUN ; 10351_1.png.64x64_q85.png }  \n* { dot ; DOT ; point.png }  \n* { you ; CLITIC_PRONOUN ; tu.png } ","output":"Her vehicle. You"}
+{"input":"\n* { Canary Islands ; NOUN ; 8058_1.png.64x64_q85.png }  \n* { be ; VERB ; etre.png } ","output":"Canary Islands are there"}
+{"input":"\n* { that ; NOUN ; that_one.png }  \n* { can ; VERB ; pouvoir.png }  \n* { us ; CLITIC_PRONOUN ; nous.png }  \n* { dot ; DOT ; point.png }  \n* { pic ; NOUN ; 7107_1.png.64x64_q85.png }  \n* { that ; NOUN ; that_one.png } ","output":"That can be us. Photograph with that"}
+{"output":"Sadnesses before","input":"\n* { past ; TENSE_PAST ; past.png }  \n* { sadness ; NOUN ; 2606_2.png.64x64_q85.png } "}
+{"input":"\n* { you ; NOUN ; tu.png }  \n* { want ; VERB ; vouloir.png } ","output":"You want it"}
+{"input":"\n* { they ; NOUN ; ils.png }  \n* { musical instrument ; NOUN ; 2318_2.png.64x64_q85.png } ","output":"Their musical instrument"}
+{"input":"\n* { past ; TENSE_PAST ; past.png }  \n* { electricity ; NOUN ; 8619_1.png.64x64_q85.png }  \n* { future ; TENSE_FUTURE ; future.png }  \n* { can ; VERB ; pouvoir.png } ","output":"Electricity can do it right now"}
+{"output":"They are not below","input":"\n* { they ; NOUN ; elles.png }  \n* { negate ; NEGATED ; no.png }  \n* { be ; VERB ; etre.png }  \n* { below ; ADJECTIVE ; 5355_1.png.64x64_q85.png } "}
+{"input":"\n* { menstruation ; NOUN ; 8165_1.png.64x64_q85.png }  \n* { them ; CLITIC_PRONOUN ; elles.png }  \n* { be ; VERB ; etre.png } ","output":"They are having their menstruation"}
+{"output":"He has cologne","input":"\n* { cologne ; NOUN ; 2710_1.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png }  \n* { him ; CLITIC_PRONOUN ; il.png } "}
+{"input":"\n* { see you ; NOUN ; 5896_1.png.64x64_q85.png }  \n* { to dance ; VERB ; 2652_1.png.64x64_q85.png } ","output":"See you at the dances"}
+{"input":"\n* { that ; NOUN ; that_one.png }  \n* { let's ; NOUN ; on.png } ","output":"Let's get to that"}
+{"input":"\n* { to grasp ; VERB ; 4606_1.png.64x64_q85.png }  \n* { you ; NOUN ; vous.png }  \n* { ugly ; ADJECTIVE ; 4647_1.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png }  \n* { bucket and spade ; NOUN ; 2361_2.png.64x64_q85.png } ","output":"You can take the ugly toys"}
+{"output":"The dots couldn't do it","input":"\n* { dot ; NOUN ; 7776_1.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png }  \n* { negate ; NEGATED ; no.png }  \n* { past ; TENSE_PAST ; past.png } "}
+{"input":"\n* { that ; NOUN ; that_one.png } ","output":"That"}
+{"input":"\n* { what ; NOUN ; 22620_1.png.64x64_q85.png }  \n* { to want ; VERB ; 5441_1.png.64x64_q85.png }  \n* { myself ; CLITIC_PRONOUN ; je.png } ","output":"What do I want"}
+{"output":"Let's have the tractor","input":"\n* { want ; VERB ; vouloir.png }  \n* { tractor ; NOUN ; 2600_2.png.64x64_q85.png }  \n* { let's ; NOUN ; on.png } "}
+{"output":"They can have it but neither do i","input":"\n* { they ; NOUN ; ils.png }  \n* { can ; VERB ; pouvoir.png }  \n* { have ; VERB ; avoir.png }  \n* { neither do i ; NOUN ; 11593_1.png.64x64_q85.png } "}
+{"input":"\n* { that ; NOUN ; that_one.png }  \n* { can ; VERB ; pouvoir.png }  \n* { avenue ; NOUN ; 2299_2.png.64x64_q85.png } ","output":"That can be in the avenue"}
+{"output":"The incomprehensible napkin does not hit us, first is the little girl","input":"\n* { napkin ; NOUN ; 2569_2.png.64x64_q85.png }  \n* { incomprehensible ; ADJECTIVE ; 7180_1.png.64x64_q85.png }  \n* { to crash ; VERB ; 4551_1.png.64x64_q85.png }  \n* { us ; CLITIC_PRONOUN ; nous.png }  \n* { first ; ADJECTIVE ; 4726_1.png.64x64_q85.png }  \n* { little girl ; ADJECTIVE ; 7175_1.png.64x64_q85.png }  \n* { negate ; NEGATED ; no.png } "}
+{"output":"You move to a safe place, there is lightning","input":"\n* { you ; NOUN ; vous.png }  \n* { put in a safe place ; VERB ; 5514_1.png.64x64_q85.png }  \n* { be ; VERB ; etre.png }  \n* { lightning ; NOUN ; 2814_1.png.64x64_q85.png } "}
+{"input":"\n* { swordfish ; NOUN ; 2843_1.png.64x64_q85.png }  \n* { him ; CLITIC_PRONOUN ; il.png } ","output":"His swordfish"}
+{"input":"\n* { he ; NOUN ; il.png }  \n* { have ; VERB ; avoir.png }  \n* { future ; TENSE_FUTURE ; future.png }  \n* { that ; NOUN ; that_one.png } ","output":"He will have that"}
+{"input":"\n* { we don't agree ; NOUN ; 11315_1.png.64x64_q85.png } ","output":"We don't agree"}
+{"output":"Your door clouding over","input":"\n* { you ; NOUN ; tu.png }  \n* { door/gate ; NOUN ; 3244_1.png.64x64_q85.png }  \n* { clouding over ; VERB ; 3210_1.png.64x64_q85.png } "}
+{"output":"We will","input":"\n* { future ; TENSE_FUTURE ; future.png }  \n* { we ; NOUN ; nous.png }  \n* { dot ; DOT ; point.png } "}
+{"output":"They want you all to make it purple","input":"\n* { be ; VERB ; etre.png }  \n* { lily ; ADJECTIVE ; 2940_1.png.64x64_q85.png }  \n* { they ; NOUN ; ils.png }  \n* { you ; CLITIC_PRONOUN ; vous.png }  \n* { want ; VERB ; vouloir.png } "}
+{"output":"Fish and bucket","input":"\n* { fish ; NOUN ; 2519_2.png.64x64_q85.png }  \n* { bucket ; NOUN ; 2361_2.png.64x64_q85.png } "}
+{"input":"\n* { they ; NOUN ; elles.png }  \n* { be ; VERB ; etre.png }  \n* { white coat ; NOUN ; 3229_1.png.64x64_q85.png }  \n* { dizzy ; ADJECTIVE ; 2464_2.png.64x64_q85.png } ","output":"They are dizzy in that coat"}
+{"input":"\n* { chest ; NOUN ; 2853_1.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png }  \n* { myself ; CLITIC_PRONOUN ; je.png }  \n* { myself ; CLITIC_PRONOUN ; je.png }  \n* { walker ; NOUN ; 5902_1.png.64x64_q85.png } ","output":"The chest needs me and my walker"}
+{"output":"You and you all are","input":"\n* { you ; NOUN ; tu.png }  \n* { you ; CLITIC_PRONOUN ; vous.png }  \n* { be ; VERB ; etre.png } "}
+{"output":"You are with your treatment at the camping site","input":"\n* { you ; NOUN ; vous.png }  \n* { be ; VERB ; etre.png }  \n* { you ; CLITIC_PRONOUN ; vous.png }  \n* { treatment ; NOUN ; 8163_1.png.64x64_q85.png }  \n* { camping site ; NOUN ; 5939_1.png.64x64_q85.png } "}
+{"input":"\n* { you ; NOUN ; vous.png }  \n* { have ; VERB ; avoir.png } ","output":"You all have"}
+{"output":"Near you","input":"\n* { near ; ADJECTIVE ; 5426_1.png.64x64_q85.png }  \n* { you ; NOUN ; tu.png } "}
+{"input":"\n* { April ; NOUN ; 6024_1.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png }  \n* { them ; CLITIC_PRONOUN ; ils.png } ","output":"They are wanted in April"}
+{"input":"\n* { you ; NOUN ; vous.png }  \n* { us ; CLITIC_PRONOUN ; nous.png }  \n* { let's ; NOUN ; on.png }  \n* { have ; VERB ; avoir.png } ","output":"Let's have it, we and you all"}
+{"output":"You all and he","input":"\n* { you ; NOUN ; vous.png }  \n* { him ; CLITIC_PRONOUN ; il.png } "}
+{"output":"Mother can have that tale","input":"\n* { tale ; NOUN ; 2364_2.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png }  \n* { mother ; NOUN ; 2458_2.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png }  \n* { that ; NOUN ; that_one.png }  \n* { have ; VERB ; avoir.png } "}
+{"output":"You can get him","input":"\n* { you ; NOUN ; tu.png }  \n* { can ; VERB ; pouvoir.png }  \n* { him ; CLITIC_PRONOUN ; il.png } "}
+{"input":"\n* { watering can ; NOUN ; 2817_1.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png }  \n* { today ; ADJECTIVE ; 7131_1.png.64x64_q85.png } ","output":"Today the watering can is to be used"}
+{"output":"That and they","input":"\n* { that ; NOUN ; that_one.png }  \n* { them ; CLITIC_PRONOUN ; ils.png } "}
+{"output":"A spoon and the construction kit","input":"\n* { spoon ; NOUN ; 2362_2.png.64x64_q85.png }  \n* { construction kit ; ADJECTIVE ; 4935_1.png.64x64_q85.png } "}
+{"input":"\n* { green ; ADJECTIVE ; 4886_1.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png }  \n* { garment ; NOUN ; 3296_1.png.64x64_q85.png } ","output":"Want to dress in green"}
+{"input":"\n* { speech therapist ; NOUN ; 2454_2.png.64x64_q85.png }  \n* { him ; CLITIC_PRONOUN ; il.png }  \n* { to talk ; VERB ; 3345_1.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png }  \n* { puppet ; NOUN ; 3282_1.png.64x64_q85.png } ","output":"The speech therapist and him can talk to a puppet"}
+{"input":"\n* { future ; TENSE_FUTURE ; future.png }  \n* { to laugh ; VERB ; 3245_1.png.64x64_q85.png } ","output":"Will laugh"}
+{"input":"\n* { dry ; ADJECTIVE ; 4741_1.png.64x64_q85.png }  \n* { be ; VERB ; etre.png } ","output":"Is dry"}
+{"input":"\n* { ice-cream ; NOUN ; 2420_2.png.64x64_q85.png }  \n* { be ; VERB ; etre.png }  \n* { have ; VERB ; avoir.png } ","output":"Ice-cream is to be had"}
+{"input":"\n* { future ; TENSE_FUTURE ; future.png }  \n* { curls ; NOUN ; 5564_1.png.64x64_q85.png } ","output":"Curls will"}
+{"output":"Want to take a taxi","input":"\n* { taxi ; NOUN ; 2580_2.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png }  \n* { have ; VERB ; avoir.png } "}
+{"output":"Does not want to be beautiful","input":"\n* { want ; VERB ; vouloir.png }  \n* { beautiful ; ADJECTIVE ; 4659_1.png.64x64_q85.png }  \n* { negate ; NEGATED ; no.png } "}
+{"input":"\n* { raincoat ; NOUN ; 4927_1.png.64x64_q85.png }  \n* { us ; CLITIC_PRONOUN ; nous.png } ","output":"Our raincoat"}
+{"output":"You, and my kitchen utensil","input":"\n* { you ; NOUN ; tu.png }  \n* { kitchen tool ; NOUN ; 2320_2.png.64x64_q85.png }  \n* { myself ; CLITIC_PRONOUN ; je.png } "}
+{"input":"\n* { rod ; NOUN ; 11322_1.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png } ","output":"The rod can do it"}
+{"input":"\n* { Sunday ; NOUN ; 6478_1.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png } ","output":"On Sunday, it has it"}
+{"input":"\n* { he ; NOUN ; il.png }  \n* { want ; VERB ; vouloir.png } ","output":"He wants it"}
+{"input":"\n* { future ; TENSE_FUTURE ; future.png }  \n* { want ; VERB ; vouloir.png }  \n* { cause ; NOUN ; 12295_1.png.64x64_q85.png } ","output":"The cause will be wanted"}
+{"output":"Is","input":"\n* { be ; VERB ; etre.png } "}
+{"output":"Let's not want it","input":"\n* { want ; VERB ; vouloir.png }  \n* { negate ; NEGATED ; no.png }  \n* { let's ; NOUN ; on.png } "}
+{"input":"\n* { you ; NOUN ; tu.png }  \n* { negate ; NEGATED ; no.png }  \n* { them ; CLITIC_PRONOUN ; ils.png }  \n* { be ; VERB ; etre.png }  \n* { heart shape ; NOUN ; 4613_1.png.64x64_q85.png } ","output":"You are not their heart shape"}
+{"output":"You can have her toothbrush, your and ours","input":"\n* { can ; VERB ; pouvoir.png }  \n* { you ; NOUN ; vous.png }  \n* { toothbrush ; NOUN ; 2694_1.png.64x64_q85.png }  \n* { her ; CLITIC_PRONOUN ; elle.png }  \n* { us ; CLITIC_PRONOUN ; nous.png }  \n* { you ; CLITIC_PRONOUN ; vous.png }  \n* { us ; CLITIC_PRONOUN ; nous.png } "}
+{"input":"\n* { want ; VERB ; vouloir.png }  \n* { future ; TENSE_FUTURE ; future.png } ","output":"Will want"}
+{"output":"I do not know what to sell. Strong fire","input":"\n* { I do not know ; NOUN ; 7180_1.png.64x64_q85.png }  \n* { to sell ; VERB ; 6652_1.png.64x64_q85.png }  \n* { dot ; DOT ; point.png }  \n* { strong ; ADJECTIVE ; 4655_1.png.64x64_q85.png }  \n* { fire ; NOUN ; 4654_1.png.64x64_q85.png } "}
+{"input":"\n* { Physical Education lesson ; NOUN ; 10258_1.png.64x64_q85.png }  \n* { you ; CLITIC_PRONOUN ; vous.png }  \n* { you ; CLITIC_PRONOUN ; vous.png }  \n* { them ; CLITIC_PRONOUN ; ils.png }  \n* { have ; VERB ; avoir.png }  \n* { us ; CLITIC_PRONOUN ; nous.png } ","output":"Your and theirs physical education lesson have us"}
+{"input":"\n* { they ; NOUN ; ils.png }  \n* { have ; VERB ; avoir.png } ","output":"They have"}
+{"output":"They can play with blocks","input":"\n* { blocks ; NOUN ; 4921_1.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png }  \n* { them ; CLITIC_PRONOUN ; elles.png } "}
+{"input":"\n* { in front of ; ADJECTIVE ; 5438_1.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png }  \n* { past ; TENSE_PAST ; past.png } ","output":"Had in front of"}
+{"input":"\n* { that ; NOUN ; that_one.png }  \n* { can ; VERB ; pouvoir.png }  \n* { market ; NOUN ; 3389_1.png.64x64_q85.png } ","output":"That can be a market"}
+{"input":"\n* { florist ; NOUN ; 3318_1.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png } ","output":"Florist has it"}
+{"input":"\n* { have ; VERB ; avoir.png }  \n* { she ; NOUN ; elle.png }  \n* { portable radio ; NOUN ; 11354_1.png.64x64_q85.png } ","output":"She has a radio"}
+{"input":"\n* { we ; NOUN ; nous.png } ","output":"We"}
+{"output":"There is an orchestra","input":"\n* { be ; VERB ; etre.png }  \n* { orchestra ; NOUN ; 2870_1.png.64x64_q85.png } "}
+{"output":"The hostel wants his pepper","input":"\n* { hostel ; NOUN ; 11222_1.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png }  \n* { him ; CLITIC_PRONOUN ; il.png }  \n* { pepper ; NOUN ; 2838_1.png.64x64_q85.png } "}
+{"input":"\n* { we ; NOUN ; nous.png }  \n* { reading ; NOUN ; 2447_2.png.64x64_q85.png }  \n* { close ; ADJECTIVE ; 5426_1.png.64x64_q85.png } ","output":"We are close reading"}
+{"input":"\n* { be ; VERB ; etre.png } ","output":"Is"}
+{"input":"\n* { he ; NOUN ; il.png }  \n* { him ; CLITIC_PRONOUN ; il.png }  \n* { spring ; NOUN ; 5553_1.png.64x64_q85.png } ","output":"In spring, he and he"}
+{"input":"\n* { let's ; NOUN ; on.png }  \n* { negate ; NEGATED ; no.png }  \n* { have ; VERB ; avoir.png } ","output":"Let's do not have"}
+{"output":"They want to have it","input":"\n* { have ; VERB ; avoir.png }  \n* { they ; NOUN ; elles.png }  \n* { want ; VERB ; vouloir.png } "}
+{"input":"\n* { past ; TENSE_PAST ; past.png }  \n* { can ; VERB ; pouvoir.png }  \n* { can ; VERB ; pouvoir.png }  \n* { question ; QUESTION ; question.png } ","output":"Did it could happen?"}
+{"input":"\n* { she ; NOUN ; elle.png }  \n* { have ; VERB ; avoir.png }  \n* { boots ; NOUN ; 2287_2.png.64x64_q85.png }  \n* { August ; NOUN ; 6034_1.png.64x64_q85.png }  \n* { negate ; NEGATED ; no.png } ","output":"In August, she does not have boots"}
+{"input":"\n* { want ; VERB ; vouloir.png }  \n* { electric wheelchair ; NOUN ; 9121_1.png.64x64_q85.png } ","output":"The electric wheelchair is wanted"}
+{"output":"Did mother had a cupcake?","input":"\n* { fairy cake ; NOUN ; 8623_1.png.64x64_q85.png }  \n* { mother ; NOUN ; 2458_2.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png }  \n* { past ; TENSE_PAST ; past.png }  \n* { question ; QUESTION ; question.png } "}
+{"input":"\n* { vegetables ; NOUN ; 6244_1.png.64x64_q85.png } ","output":"Vegetables"}
+{"output":"Me and her are optimists","input":"\n* { optimist ; NOUN ; 6892_1.png.64x64_q85.png }  \n* { myself ; CLITIC_PRONOUN ; je.png }  \n* { her ; CLITIC_PRONOUN ; elle.png }  \n* { have ; VERB ; avoir.png } "}
+{"input":"\n* { can ; VERB ; pouvoir.png }  \n* { I ; NOUN ; je.png }  \n* { you ; CLITIC_PRONOUN ; vous.png }  \n* { let's ; NOUN ; on.png } ","output":"Let's do it, you all and I"}
+{"output":"You clearly see is us","input":"\n* { see you ; NOUN ; 5896_1.png.64x64_q85.png }  \n* { clear ; ADJECTIVE ; 4604_1.png.64x64_q85.png }  \n* { be ; VERB ; etre.png }  \n* { us ; CLITIC_PRONOUN ; nous.png } "}
+{"output":"It was wanted","input":"\n* { past ; TENSE_PAST ; past.png }  \n* { want ; VERB ; vouloir.png } "}
+{"output":"They can not paint that they feel sick","input":"\n* { paint ; VERB ; 2836_1.png.64x64_q85.png }  \n* { negate ; NEGATED ; no.png }  \n* { they ; NOUN ; elles.png }  \n* { can ; VERB ; pouvoir.png }  \n* { to feel sick ; VERB ; 2464_2.png.64x64_q85.png } "}
+{"output":"What time is it? Let's do it","input":"\n* { hour ; NOUN ; 7129_1.png.64x64_q85.png }  \n* { be ; VERB ; etre.png }  \n* { question ; QUESTION ; question.png }  \n* { let's ; NOUN ; on.png } "}
+{"output":"How do you feel about that? Her musical instruments can play in spring","input":"\n* { that ; NOUN ; that_one.png }  \n* { how are you? ; NOUN ; 10273_1.png.64x64_q85.png }  \n* { her ; CLITIC_PRONOUN ; elle.png }  \n* { musical instruments ; NOUN ; 8608_1.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png }  \n* { spring ; NOUN ; 5553_1.png.64x64_q85.png } "}
+{"output":"That has it","input":"\n* { that ; NOUN ; that_one.png }  \n* { have ; VERB ; avoir.png } "}
+{"input":"\n* { let's ; NOUN ; on.png }  \n* { to grip ; VERB ; 4606_1.png.64x64_q85.png }  \n* { him ; CLITIC_PRONOUN ; il.png } ","output":"Let's grab him"}
+{"output":"Let's father get a few","input":"\n* { father ; NOUN ; 2497_2.png.64x64_q85.png }  \n* { a few ; NOUN ; 7209_1.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png }  \n* { let's ; NOUN ; on.png } "}
+{"input":"\n* { cardboard ; NOUN ; 7054_1.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png }  \n* { you ; CLITIC_PRONOUN ; tu.png }  \n* { to feel sick ; VERB ; 2464_2.png.64x64_q85.png }  \n* { that ; NOUN ; that_one.png } ","output":"The cardboard made you sick with that"}
+{"input":"\n* { let's ; NOUN ; on.png } ","output":"Let's"}
+{"input":"\n* { be ; VERB ; etre.png }  \n* { let's ; NOUN ; on.png }  \n* { can ; VERB ; pouvoir.png } ","output":"Let's try to be"}
+{"output":"Let's get behind the camel?","input":"\n* { camel ; NOUN ; 8522_1.png.64x64_q85.png }  \n* { be ; VERB ; etre.png }  \n* { us ; CLITIC_PRONOUN ; nous.png }  \n* { let's ; NOUN ; on.png }  \n* { behind ; ADJECTIVE ; 5443_1.png.64x64_q85.png }  \n* { question ; QUESTION ; question.png } "}
+{"input":"\n* { past ; TENSE_PAST ; past.png }  \n* { can ; VERB ; pouvoir.png }  \n* { to write ; VERB ; 2380_2.png.64x64_q85.png } ","output":"Before we could write"}
+{"output":"Let's had grandmother explain it to him","input":"\n* { past ; TENSE_PAST ; past.png }  \n* { let's ; NOUN ; on.png }  \n* { grandmother ; NOUN ; 2243_2.png.64x64_q85.png }  \n* { to explain ; VERB ; 8579_1.png.64x64_q85.png }  \n* { him ; CLITIC_PRONOUN ; il.png } "}
+{"input":"\n* { that ; NOUN ; that_one.png }  \n* { metal ; NOUN ; 6148_1.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png } ","output":"There is that metal"}
+{"output":"I hide myself in the clothes","input":"\n* { clothes ; NOUN ; 7233_1.png.64x64_q85.png }  \n* { hide ; VERB ; 4642_1.png.64x64_q85.png }  \n* { myself ; CLITIC_PRONOUN ; je.png } "}
+{"output":"It has stained you","input":"\n* { stained ; ADJECTIVE ; 4750_1.png.64x64_q85.png }  \n* { you ; NOUN ; vous.png } "}
+{"output":"The mouth want to have it","input":"\n* { mouth ; NOUN ; 2663_1.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png }  \n* { have ; VERB ; avoir.png } "}
+{"output":"Tooth","input":"\n* { teeth ; NOUN ; 2737_1.png.64x64_q85.png } "}
+{"output":"Wind","input":"\n* { wind ; NOUN ; 2779_1.png.64x64_q85.png } "}
+{"input":"\n* { annoying ; ADJECTIVE ; 7157_1.png.64x64_q85.png }  \n* { we ; NOUN ; nous.png } ","output":"We are annoyed"}
+{"output":"There will be an interpreter","input":"\n* { interpreter ; NOUN ; 4554_1.png.64x64_q85.png }  \n* { future ; TENSE_FUTURE ; future.png } "}
+{"input":"\n* { they ; NOUN ; elles.png }  \n* { be ; VERB ; etre.png }  \n* { book ; NOUN ; 2450_2.png.64x64_q85.png }  \n* { marriage ; NOUN ; 8256_1.png.64x64_q85.png }  \n* { cucumbers ; NOUN ; 2847_1.png.64x64_q85.png } ","output":"They are a book, marriage and cucumbers"}
+{"input":"\n* { we ; NOUN ; nous.png }  \n* { scratched ; ADJECTIVE ; 7225_1.png.64x64_q85.png }  \n* { myself ; CLITIC_PRONOUN ; je.png } ","output":"We and my striped self"}
+{"output":"I am next to those presidents","input":"\n* { be ; VERB ; etre.png }  \n* { I ; NOUN ; je.png }  \n* { that ; NOUN ; that_one.png }  \n* { presidents ; NOUN ; 22053.png.64x64_q85.png }  \n* { next to ; ADJECTIVE ; 5367_1.png.64x64_q85.png } "}
+{"input":"\n* { you ; NOUN ; tu.png } ","output":"You"}
+{"input":"\n* { we ; NOUN ; nous.png }  \n* { future ; TENSE_FUTURE ; future.png }  \n* { you ; CLITIC_PRONOUN ; vous.png } ","output":"We will be with you all"}
+{"input":"\n* { let's ; NOUN ; on.png }  \n* { have ; VERB ; avoir.png } ","output":"Let's have it"}
+{"input":"\n* { I ; NOUN ; je.png } ","output":"I"}
+{"output":"A rod was with their sunflower","input":"\n* { rod ; NOUN ; 11322_1.png.64x64_q85.png }  \n* { them ; CLITIC_PRONOUN ; ils.png }  \n* { past ; TENSE_PAST ; past.png }  \n* { sunflower ; NOUN ; 11274_1.png.64x64_q85.png } "}
+{"input":"\n* { be ; VERB ; etre.png } ","output":"Is"}
+{"output":"Wants","input":"\n* { want ; VERB ; vouloir.png } "}
+{"input":"\n* { future ; TENSE_FUTURE ; future.png }  \n* { to dress oneself ; VERB ; 2781_1.png.64x64_q85.png }  \n* { past ; TENSE_PAST ; past.png } ","output":"Dress oneself right now"}
+{"output":"Cannot do it","input":"\n* { can ; VERB ; pouvoir.png }  \n* { negate ; NEGATED ; no.png } "}
+{"input":"\n* { good night ; NOUN ; 6942_1.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png }  \n* { can ; VERB ; pouvoir.png } ","output":"Good night! Can do it"}
+{"input":"\n* { let's ; NOUN ; on.png }  \n* { them ; CLITIC_PRONOUN ; ils.png }  \n* { be ; VERB ; etre.png }  \n* { want ; VERB ; vouloir.png } ","output":"We want to let them be"}
+{"input":"\n* { be ; VERB ; etre.png }  \n* { we ; NOUN ; nous.png } ","output":"We are"}
+{"input":"\n* { she ; NOUN ; elle.png }  \n* { past ; TENSE_PAST ; past.png }  \n* { divide ; VERB ; 4735_1.png.64x64_q85.png }  \n* { us ; CLITIC_PRONOUN ; nous.png }  \n* { past ; TENSE_PAST ; past.png }  \n* { drawing ; NOUN ; 11238_1.png.64x64_q85.png } ","output":"She divided us into groups for drawing"}
+{"input":"\n* { I ; NOUN ; je.png }  \n* { can ; VERB ; pouvoir.png }  \n* { to get upset ; VERB ; 7157_1.png.64x64_q85.png }  \n* { you ; CLITIC_PRONOUN ; vous.png }  \n* { silly remark ; NOUN ; 15483.png.64x64_q85.png }  \n* { dry ; ADJECTIVE ; 4741_1.png.64x64_q85.png }  \n* { them ; CLITIC_PRONOUN ; elles.png } ","output":"I can get upset you with silly remarks that make them dry"}
+{"input":"\n* { can ; VERB ; pouvoir.png }  \n* { be ; VERB ; etre.png }  \n* { that ; NOUN ; that_one.png } ","output":"That can be"}
+{"input":"\n* { you ; NOUN ; tu.png }  \n* { them ; CLITIC_PRONOUN ; ils.png }  \n* { be ; VERB ; etre.png }  \n* { hotel ; NOUN ; 9895_1.png.64x64_q85.png }  \n* { you ; CLITIC_PRONOUN ; vous.png }  \n* { have ; VERB ; avoir.png } ","output":"You and them are in the hotel where you are staying"}
+{"input":"\n* { they ; NOUN ; elles.png }  \n* { be ; VERB ; etre.png }  \n* { dot ; DOT ; point.png }  \n* { dot ; DOT ; point.png } ","output":"They are"}
+{"input":"\n* { to feel dizzy ; VERB ; 2464_2.png.64x64_q85.png }  \n* { be ; VERB ; etre.png }  \n* { van ; NOUN ; 3275_1.png.64x64_q85.png }  \n* { us ; CLITIC_PRONOUN ; nous.png }  \n* { let's ; NOUN ; on.png }  \n* { them ; CLITIC_PRONOUN ; ils.png }  \n* { to break ; VERB ; 4735_1.png.64x64_q85.png } ","output":"We feel dizzy in the van, let's break something"}
+{"output":"Lovers at your door","input":"\n* { you ; NOUN ; tu.png }  \n* { lovers ; ADJECTIVE ; 4558_1.png.64x64_q85.png }  \n* { door/gate ; NOUN ; 3244_1.png.64x64_q85.png } "}
+{"output":"She has exhaustation","input":"\n* { she ; NOUN ; elle.png }  \n* { have ; VERB ; avoir.png }  \n* { exhausted ; ADJECTIVE ; 2314_2.png.64x64_q85.png } "}
+{"output":"Unpleasant lightning","input":"\n* { lightning ; NOUN ; 2814_1.png.64x64_q85.png }  \n* { unpleasant ; ADJECTIVE ; 6155_1.png.64x64_q85.png } "}
+{"input":"\n* { smooth ; ADJECTIVE ; 4578_1.png.64x64_q85.png }  \n* { chests of drawers ; NOUN ; 21476.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png }  \n* { you ; CLITIC_PRONOUN ; vous.png } ","output":"You have a smooth chests of drawers"}
+{"output":"Has","input":"\n* { have ; VERB ; avoir.png } "}
+{"input":"\n* { you ; NOUN ; vous.png }  \n* { him ; CLITIC_PRONOUN ; il.png }  \n* { can ; VERB ; pouvoir.png }  \n* { make / do / write ; VERB ; 6008_1.png.64x64_q85.png }  \n* { that ; NOUN ; that_one.png } ","output":"You all and hin can make that"}
+{"input":"\n* { to sleep ; VERB ; 2369_2.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png }  \n* { let's ; NOUN ; on.png } ","output":"Let's try to sleep"}
+{"input":"\n* { that ; NOUN ; that_one.png } ","output":"That"}
+{"output":"They have it easy","input":"\n* { easy ; ADJECTIVE ; 4645_1.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png }  \n* { they ; NOUN ; ils.png } "}
+{"output":"Let's let them have him","input":"\n* { they ; NOUN ; elles.png }  \n* { have ; VERB ; avoir.png }  \n* { him ; CLITIC_PRONOUN ; il.png }  \n* { let's ; NOUN ; on.png } "}
+{"output":"She wants to have fun","input":"\n* { she ; NOUN ; elle.png }  \n* { want ; VERB ; vouloir.png }  \n* { to frolic ; VERB ; 2439_2.png.64x64_q85.png } "}
+{"output":"There is a coat","input":"\n* { coat ; NOUN ; 2242_2.png.64x64_q85.png }  \n* { be ; VERB ; etre.png } "}
+{"output":"Radio","input":"\n* { radio ; NOUN ; 11354_1.png.64x64_q85.png } "}
+{"input":"\n* { die (singular) dice (plural) ; NOUN ; 2731_1.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png }  \n* { them ; CLITIC_PRONOUN ; ils.png }  \n* { us ; CLITIC_PRONOUN ; nous.png }  \n* { question ; QUESTION ; question.png } ","output":"Is the dice wanted by them or by us?"}
+{"input":"\n* { physical education ; NOUN ; 10258_1.png.64x64_q85.png }  \n* { you ; CLITIC_PRONOUN ; vous.png }  \n* { want ; VERB ; vouloir.png }  \n* { us ; CLITIC_PRONOUN ; nous.png }  \n* { negate ; NEGATED ; no.png } ","output":"Your physical education class does not want us"}
+{"output":"Let's try to do it with you","input":"\n* { let's ; NOUN ; on.png }  \n* { can ; VERB ; pouvoir.png }  \n* { you ; CLITIC_PRONOUN ; vous.png } "}
+{"output":"Ironboard","input":"\n* { to iron ; VERB ; 2830_1.png.64x64_q85.png } "}
+{"output":"Let's try to do it with him","input":"\n* { let's ; NOUN ; on.png }  \n* { can ; VERB ; pouvoir.png }  \n* { him ; CLITIC_PRONOUN ; il.png } "}
+{"input":"\n* { to chat ; VERB ; 3345_1.png.64x64_q85.png }  \n* { future ; TENSE_FUTURE ; future.png }  \n* { be ; VERB ; etre.png }  \n* { swimmer ; ADJECTIVE ; 2889_1.png.64x64_q85.png }  \n* { sweet ; NOUN ; 2686_1.png.64x64_q85.png } ","output":"The swimmer will have a sweet chat"}
+{"output":"That is hot","input":"\n* { be ; VERB ; etre.png }  \n* { heat ; ADJECTIVE ; 2300_2.png.64x64_q85.png }  \n* { that ; NOUN ; that_one.png } "}
+{"input":"\n* { for me ; NOUN ; 6632_1.png.64x64_q85.png }  \n* { to arrive ; VERB ; 11708_1.png.64x64_q85.png }  \n* { left ; ADJECTIVE ; 4672_1.png.64x64_q85.png }  \n* { you ; CLITIC_PRONOUN ; tu.png }  \n* { them ; CLITIC_PRONOUN ; elles.png } ","output":"It arrives for me left to you and them"}
+{"output":"The jewelry is other than hers","input":"\n* { jewelry ; NOUN ; 2515_2.png.64x64_q85.png }  \n* { be ; VERB ; etre.png }  \n* { other ; ADJECTIVE ; 17054_1.png.64x64_q85.png }  \n* { her ; CLITIC_PRONOUN ; elle.png } "}
+{"output":"Let's","input":"\n* { let's ; NOUN ; on.png } "}
+{"input":"\n* { saltcellar ; NOUN ; 2554_2.png.64x64_q85.png }  \n* { to bathe ; VERB ; 2271_2.png.64x64_q85.png }  \n* { machine ; NOUN ; 2612_2.png.64x64_q85.png } ","output":"Saltcellar bathes in the machine"}
+{"output":"A quick easy swimming is wanted","input":"\n* { simple ; ADJECTIVE ; 4645_1.png.64x64_q85.png }  \n* { quick ; ADJECTIVE ; 5306_1.png.64x64_q85.png }  \n* { swimming ; NOUN ; 2889_1.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png } "}
+{"input":"\n* { steal the bacon ; NOUN ; 11290_1.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png }  \n* { question ; QUESTION ; question.png } ","output":"Who stole the bacon?"}
+{"input":"\n* { negate ; NEGATED ; no.png }  \n* { have ; VERB ; avoir.png }  \n* { slim ; ADJECTIVE ; 4623_1.png.64x64_q85.png } ","output":"Does not have a slim one"}
+{"output":"You all want to have her stained ones","input":"\n* { you ; NOUN ; vous.png }  \n* { have ; VERB ; avoir.png }  \n* { want ; VERB ; vouloir.png }  \n* { stained ; ADJECTIVE ; 4750_1.png.64x64_q85.png }  \n* { her ; CLITIC_PRONOUN ; elle.png } "}
+{"input":"\n* { fantastic ; NOUN ; 11599_1.png.64x64_q85.png }  \n* { you ; CLITIC_PRONOUN ; vous.png }  \n* { want ; VERB ; vouloir.png }  \n* { her ; CLITIC_PRONOUN ; elle.png } ","output":"Fantastic! You all want to be with her"}
+{"output":"Let's be looking at them over there","input":"\n* { to observe ; NOUN ; 2474_2.png.64x64_q85.png }  \n* { be ; VERB ; etre.png }  \n* { them ; CLITIC_PRONOUN ; ils.png }  \n* { that ; NOUN ; that_one.png }  \n* { let's ; NOUN ; on.png } "}
+{"output":"We will until they fall into nonsense","input":"\n* { fall ; VERB ; 4582_1.png.64x64_q85.png }  \n* { we ; NOUN ; nous.png }  \n* { them ; CLITIC_PRONOUN ; ils.png }  \n* { nonsense ; NOUN ; 15483.png.64x64_q85.png }  \n* { future ; TENSE_FUTURE ; future.png }  \n* { wait ; VERB ; 8109_1.png.64x64_q85.png } "}
+{"output":"Let's be in the airbed while their play musical instruments","input":"\n* { I ; NOUN ; je.png }  \n* { airbed ; NOUN ; 2346_2.png.64x64_q85.png }  \n* { musical instrument ; NOUN ; 2318_2.png.64x64_q85.png }  \n* { let's ; NOUN ; on.png }  \n* { him ; CLITIC_PRONOUN ; il.png }  \n* { be ; VERB ; etre.png } "}
+{"input":"\n* { that ; NOUN ; that_one.png }  \n* { negate ; NEGATED ; no.png }  \n* { question ; QUESTION ; question.png }  \n* { be ; VERB ; etre.png }  \n* { you ; CLITIC_PRONOUN ; vous.png }  \n* { let's ; NOUN ; on.png } ","output":"That does not? Let's be with you all"}
+{"output":"You all have","input":"\n* { you ; NOUN ; vous.png }  \n* { have ; VERB ; avoir.png } "}
+{"input":"\n* { let's ; NOUN ; on.png } ","output":"Let's"}
+{"input":"\n* { is ; VERB ; 5581_1.png.64x64_q85.png } ","output":"Is"}
+{"output":"She is dividing the people among them","input":"\n* { she ; NOUN ; elle.png }  \n* { be ; VERB ; etre.png }  \n* { person ; NOUN ; 2275_2.png.64x64_q85.png }  \n* { them ; CLITIC_PRONOUN ; ils.png }  \n* { to divide ; VERB ; 4735_1.png.64x64_q85.png } "}
+{"input":"\n* { we ; NOUN ; nous.png }  \n* { is ; VERB ; 5581_1.png.64x64_q85.png }  \n* { that ; NOUN ; that_one.png } ","output":"We are that"}
+{"input":"\n* { that ; NOUN ; that_one.png }  \n* { postal card ; NOUN ; 7215_1.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png }  \n* { past ; TENSE_PAST ; past.png }  \n* { let's ; NOUN ; on.png } ","output":"We wanted to get that postal card before"}
+{"input":"\n* { to feel sick ; VERB ; 2464_2.png.64x64_q85.png } ","output":"Feel sick"}
+{"output":"Can be at the end","input":"\n* { can ; VERB ; pouvoir.png }  \n* { end ; ADJECTIVE ; 5358_1.png.64x64_q85.png } "}
+{"input":"\n* { future ; TENSE_FUTURE ; future.png }  \n* { cat ; NOUN ; 2406_2.png.64x64_q85.png }  \n* { to write ; VERB ; 2380_2.png.64x64_q85.png } ","output":"The cat will write"}
+{"input":"\n* { they ; NOUN ; ils.png }  \n* { be ; VERB ; etre.png }  \n* { them ; CLITIC_PRONOUN ; elles.png }  \n* { dot ; DOT ; point.png } ","output":"They are them"}
+{"input":"\n* { who? ; NOUN ; 10276_1.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png } ","output":"Who? It can be"}
+{"input":"\n* { can ; VERB ; pouvoir.png }  \n* { they ; NOUN ; elles.png }  \n* { want ; VERB ; vouloir.png } ","output":"They want to be able to do it"}
+{"output":"Let's let her dry it","input":"\n* { she ; NOUN ; elle.png }  \n* { dry ; ADJECTIVE ; 4741_1.png.64x64_q85.png }  \n* { let's ; NOUN ; on.png } "}
+{"output":"They poured it","input":"\n* { past ; TENSE_PAST ; past.png }  \n* { to pour ; VERB ; 7298_1.png.64x64_q85.png }  \n* { they ; NOUN ; ils.png } "}
+{"input":"\n* { salty ; ADJECTIVE ; 4739_1.png.64x64_q85.png }  \n* { future ; TENSE_FUTURE ; future.png }  \n* { he ; NOUN ; il.png }  \n* { him ; CLITIC_PRONOUN ; il.png }  \n* { want ; VERB ; vouloir.png }  \n* { us ; CLITIC_PRONOUN ; nous.png } ","output":"He and he will want us salty"}
+{"input":"\n* { room ; NOUN ; 5921_1.png.64x64_q85.png }  \n* { have ; VERB ; avoir.png }  \n* { past ; TENSE_PAST ; past.png }  \n* { future ; TENSE_FUTURE ; future.png } ","output":"Use the bathroom right now"}
+{"output":"At exactly ten o'clock, it will dust it to go on a trip","input":"\n* { go on a trip ; ADJECTIVE ; 4670_1.png.64x64_q85.png }  \n* { to dust ; VERB ; 3351_1.png.64x64_q85.png }  \n* { future ; TENSE_FUTURE ; future.png }  \n* { exactly ten o'clock ; NOUN ; 9218_1.png.64x64_q85.png } "}
+{"input":"\n* { to see oneself ; VERB ; 2385_2.png.64x64_q85.png }  \n* { you ; NOUN ; tu.png }  \n* { question ; QUESTION ; question.png } ","output":"Do you see yourself?"}
+{"output":"He and you have it","input":"\n* { he ; NOUN ; il.png }  \n* { you ; CLITIC_PRONOUN ; tu.png }  \n* { have ; VERB ; avoir.png } "}
+{"input":"\n* { they ; NOUN ; ils.png }  \n* { scared ; ADJECTIVE ; 2261_2.png.64x64_q85.png }  \n* { want ; VERB ; vouloir.png }  \n* { myself ; CLITIC_PRONOUN ; je.png }  \n* { i ; NOUN ; 3030_1.png.64x64_q85.png }  \n* { can ; VERB ; pouvoir.png }  \n* { him ; CLITIC_PRONOUN ; il.png }  \n* { that ; NOUN ; that_one.png } ","output":"They want to make me, it and him scared of that"}
+{"input":"\n* { you ; NOUN ; vous.png }  \n* { to be ; VERB ; 5465_1.png.64x64_q85.png } ","output":"You are"}
+{"input":"\n* { clouding over ; VERB ; 3210_1.png.64x64_q85.png }  \n* { negate ; NEGATED ; no.png }  \n* { commerce ; NOUN ; 6457_1.png.64x64_q85.png }  \n* { pretty ; ADJECTIVE ; 4659_1.png.64x64_q85.png }  \n* { scared ; ADJECTIVE ; 2261_2.png.64x64_q85.png }  \n* { question ; QUESTION ; question.png } ","output":"Is is not pretty when commerce is clouded over by fear?"}

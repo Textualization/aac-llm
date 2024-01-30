@@ -7,14 +7,15 @@ import torch.nn as nn
 import bitsandbytes as bnb
 from datasets import Dataset
 from peft import LoraConfig, get_peft_model
-from transformers import AutoTokenizer, AutoConfig, AutoModelForCausalLM
+from transformers import AutoTokenizer, AutoConfig, AutoModelForCausalLM, Trainer, TrainerState, TrainerControl, TrainerCallback
+from transformers.trainer_utils import PREFIX_CHECKPOINT_DIR
 
 # this script should take around 14GB VRAM
 
 MODEL_NAME='redpajama-incite-chat-3b-aac-lowrank'
 
 # read datasets
-with open('data/aac-504.jsonl', 'r') as fp:
+with open('../data/aac-504.jsonl', 'r') as fp:
     data = [json.loads(x) for x in fp.readlines()]
 
 model = AutoModelForCausalLM.from_pretrained(
@@ -62,17 +63,30 @@ print_trainable_parameters(model)
 
 ## Training
 
+class SavePeftModelCallback(TrainerCallback):
+    def on_save(self, args, state, control, **kwargs):
+        checkpoint_folder = os.path.join(
+            args.output_dir, f"{PREFIX_CHECKPOINT_DIR}-{state.global_step}"
+        )
+        peft_model_path = os.path.join(checkpoint_folder, "adapter_model")
+        kwargs["model"].save_pretrained(peft_model_path)
+        return control
+
+callbacks=[SavePeftModelCallback]
+
 data = Dataset.from_list(data)
 data = data.map(lambda samples: tokenizer(samples['text']), batched=True)
 
 trainer = transformers.Trainer(
     model=model, 
     train_dataset=data,
+    callbacks=callbacks,
     args=transformers.TrainingArguments(
         per_device_train_batch_size=4, 
         gradient_accumulation_steps=4,
         warmup_steps=100, 
-        max_steps=200, 
+        max_steps=200,
+        save_steps=500,
         learning_rate=2e-4, 
         fp16=False,
         logging_steps=1, 

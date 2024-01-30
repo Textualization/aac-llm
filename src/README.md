@@ -3,22 +3,18 @@
 
 ## Set-up
 
-These files use OpenChatKit in the LoRA branch:
+Set-up a Python virtual environment with the provided `requirements.txt`:
 
+```bash
+virtualenv venv
+pip install -r requirements.txt
+source venv/bin/activate
 ```
-git clone https://github.com/togethercomputer/OpenChatKit/tree/cfe4d5d9b5f4b1a533c4468cc1b7e1107b9a819
-```
-
-Set-up a Python virtual environment with the provided `requirements.txt` or follow OpenChatKit installation instructions.
-
-Copy the files in this folder to `OpenChatKit/training/lora/`
-
-Copy the `jsonl` files in `../data` to `OpenChatKit/data`
 
 
 ## Fine-tune
 
-To fine-tune, in folder `OpenChatKit` do:
+To fine-tune, in this folder do:
 
 ```
 python redpajama-incite-chat-3b.py
